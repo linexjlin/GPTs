@@ -23,4 +23,8 @@ This repo collect leaked prompts of GPTs
 - [Midjourney Generator](./Midjourney%20Generator.md) by Film Me Pty Ltd
 - [Chibi Kohaku (猫音コハク)](./Chibi%20Kohaku%20(猫音コハク)) by tr1ppy.com
 - [Calendar GPT](./Calendar%20GPT.md) by community builder
+- [Sarcastic Humorist](./Sarcastic%20Humorist.md) by Irene L Williams
+- [Manga Miko - Anime Girlfriend](./Manga%20Miko%20-%20Anime%20Girlfriend.md) by Declan Gessel
+- [OCR-GPT](./OCR-GPT.md) by Siyang Qiu
+- [AI PDF](./AI%20PDF.md) by myaidrive.com
 
