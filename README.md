@@ -10,3 +10,4 @@ This repo collect leaked prompts of GPTs
 - [genz 4 meme](genz%204%20meme.md) by ChatGPT
 - [Math Mentor](./Math%20Mentor.md) by ChatGPT
 - [Interview Coach](Interview%20Coach.md) by Danny Graziosi
+- [The Negotiator](./The%20Negotiator.md)  by ChatGPT
