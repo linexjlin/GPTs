@@ -1,6 +1,8 @@
 ## BabyAgi.txt
-BabyAgi.txt
+By Nicholas Dobos
+
 Step by Step task manager that automatically saves to a .txt file
+
 https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-txt
 
 ```markdown
