@@ -34,3 +34,5 @@ This repo collect leaked prompts of GPTs
 - [The Shaman](./The%20Shaman.md) by Austin C Potter
 - [Meme Magic](./Meme%20Magic.md) by ratcgpts.com
 - [EmojAI](./EmojAI.md) by ratcgpts.com
+- [CodeCopilot](./CodeCopilot.md) by promptspellsmith.com
+- [Data Analysis](./Data%20Analysis.md) by ChatGPT
