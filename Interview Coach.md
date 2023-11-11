@@ -1,5 +1,7 @@
 ## Interview Coach
+
 By Danny Graziosi
+
 Interview coach provides practice interview and mock interview feedback
 
 https://chat.openai.com/g/g-Br0UFtDCR-interview-coach
