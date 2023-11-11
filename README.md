@@ -37,3 +37,4 @@ This repo collect leaked prompts of GPTs
 - [CodeCopilot](./CodeCopilot.md) by promptspellsmith.com
 - [Data Analysis](./Data%20Analysis.md) by ChatGPT
 - [YT Summarizer](./YT%20Summarizer.md) by John Venkata Pilla
+- [Game Time](./Game%20Time.md) by ChatGPT
