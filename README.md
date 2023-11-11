@@ -30,3 +30,6 @@ This repo collect leaked prompts of GPTs
 - [完蛋，我被美女包围了(AI同人)](./完蛋，我被美女包围了(AI同人).md) by ikena.ai
 - [Virtual Sweetheart](./Virtual%20Sweetheart.md) by Ryan Imgrund
 - [Synthia 😋🌟](./Synthia%20%F0%9F%98%8B%F0%9F%8C%9F.md) by BENARY Jacquis Ronaldo
+- [Video Script Generator](./Video%20Script%20Generator.md) by empler.ai
+- [The Shaman](./The%20Shaman.md) by Austin C Potter
+- [Meme Magic](./Meme%20Magic.md) by ratcgpts.com
