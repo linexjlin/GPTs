@@ -15,3 +15,4 @@ This repo collect leaked prompts of GPTs
 - [Tech Support Advisor](./Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./Sticker%20Whiz.md) by ChatGPT
 - [Girlfriend Emma](./Girlfriend%20Emma.md) by dddshop.com
+- [TherapistGPT](./TherapistGPT.md) by David Boyle
