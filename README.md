@@ -11,3 +11,4 @@ This repo collect leaked prompts of GPTs
 - [Math Mentor](./Math%20Mentor.md) by ChatGPT
 - [Interview Coach](Interview%20Coach.md) by Danny Graziosi
 - [The Negotiator](./The%20Negotiator.md)  by ChatGPT
+- [Sous Chef](./Sous%20Chef.md) by ChatGPT
