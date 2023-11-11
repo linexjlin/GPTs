@@ -1,5 +1,5 @@
 # GPTs
-This repo collect prompts of GPTs
+This repo collect leaked prompts of GPTs
 
 ## Prompts of GPTs
 - [BabyAgi.txt](./BabyAgi.txt.md)
