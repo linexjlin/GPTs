@@ -20,3 +20,4 @@ This repo collect leaked prompts of GPTs
 - [Moby Dick RPG](Moby%20Dick%20RPG.md) by word.studio
 - [春霞つくし Tsukushi Harugasumi](./%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
 - [Canva](./Canva.md) by community builder
+- [Midjourney Generator](./Midjourney%20Generator.md) by Film Me Pty Ltd
