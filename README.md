@@ -33,3 +33,4 @@ This repo collect leaked prompts of GPTs
 - [Video Script Generator](./Video%20Script%20Generator.md) by empler.ai
 - [The Shaman](./The%20Shaman.md) by Austin C Potter
 - [Meme Magic](./Meme%20Magic.md) by ratcgpts.com
+- [EmojAI](./EmojAI.md) by ratcgpts.com
