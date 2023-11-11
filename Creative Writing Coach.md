@@ -1,5 +1,6 @@
 ## Creative Writing Coach
 By ChatGPT
+
 I'm eager to read your work and give you feedback to improve your skills.
 
 https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach
