@@ -5,3 +5,4 @@ This repo collect leaked prompts of GPTs
 - [BabyAgi.txt](./BabyAgi.txt.md)
 - [Take Code Captures](./Take%20Code%20Captures.md)
 - [Diffusion Master](./Diffusion%20Master.md)
+- [YT transcriber](./YT%20transcriber.md)
