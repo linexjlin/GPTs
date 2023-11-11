@@ -40,3 +40,4 @@ This repo collect leaked prompts of GPTs
 - [Game Time](./Game%20Time.md) by ChatGPT
 - [Sales Cold Email Coach](./Sales%20TCold%20TEmail%20TCoach.md) by Phu Hai Nghiem
 - [Grimoire](./Grimoire.md) by Nicholas Dobos
+- [Trey Ratcliff's Photo Critique GPT](Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
