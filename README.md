@@ -38,3 +38,5 @@ This repo collect leaked prompts of GPTs
 - [Data Analysis](./Data%20Analysis.md) by ChatGPT
 - [YT Summarizer](./YT%20Summarizer.md) by John Venkata Pilla
 - [Game Time](./Game%20Time.md) by ChatGPT
+- [Sales Cold Email Coach](./Sales%20TCold%20TEmail%20TCoach.md) by Phu Hai Nghiem
+- [Grimoire](./Grimoire.md) by Nicholas Dobos
