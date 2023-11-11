@@ -17,3 +17,4 @@ This repo collect leaked prompts of GPTs
 - [Girlfriend Emma](./Girlfriend%20Emma.md) by dddshop.com
 - [TherapistGPT](./TherapistGPT.md) by David Boyle
 - [🎀My excellent classmates (Help with my homework!)](%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
+- [Moby Dick RPG](Moby%20Dick%20RPG.md) by word.studio
