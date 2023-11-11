@@ -14,3 +14,4 @@ This repo collect leaked prompts of GPTs
 - [Sous Chef](./Sous%20Chef.md) by ChatGPT
 - [Tech Support Advisor](./Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./Sticker%20Whiz.md) by ChatGPT
+- [Girlfriend Emma](./Girlfriend%20Emma.md) by dddshop.com
