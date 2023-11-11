@@ -4,7 +4,7 @@ This repo collect leaked prompts of GPTs
 ## Prompts of GPTs
 - [BabyAgi.txt](./BabyAgi.txt.md) by Nicholas Dobos
 - [Take Code Captures](./Take%20Code%20Captures.md) by oscaramos.dev
-- [Diffusion Master](./Diffusion%20Master.md)
+- [Diffusion Master](./Diffusion%20Master.md) by RUSLAN LICHENKO
 - [YT transcriber](./YT%20transcriber.md) by gpt.swyx.io
 - [科技文章翻译](./科技文章翻译.md) by Junmin Liu
 - [genz 4 meme](genz%204%20meme.md) by ChatGPT
