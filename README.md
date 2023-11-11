@@ -12,3 +12,5 @@ This repo collect leaked prompts of GPTs
 - [Interview Coach](Interview%20Coach.md) by Danny Graziosi
 - [The Negotiator](./The%20Negotiator.md)  by ChatGPT
 - [Sous Chef](./Sous%20Chef.md) by ChatGPT
+- [Tech Support Advisor](./Tech%20Support%20Advisor.md) by ChatGPT
+- [Sticker Whiz](./Sticker%20Whiz.md) by ChatGPT
