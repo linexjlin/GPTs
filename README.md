@@ -19,3 +19,4 @@ This repo collect leaked prompts of GPTs
 - [🎀My excellent classmates (Help with my homework!)](%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
 - [Moby Dick RPG](Moby%20Dick%20RPG.md) by word.studio
 - [春霞つくし Tsukushi Harugasumi](./%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
+- [Canva](./Canva.md) by community builder
