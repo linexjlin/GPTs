@@ -65,3 +65,5 @@ This repo collect leaked prompts of GPTs
 - [Character Forger](./Character%20Forger.md) by learnaiwiz.com
 - [10x Engineer](./10x%20Engineer.md) by Jacob Ottiger
 - [AI Doctor](./AI%20Doctor.md) by Yaniv Goldenberg
+- [AI Paper Polisher Pro](./AI%20Paper%20Polisher%20Pro.md) by Haiwen Huang
+- [(A.I. Bestie)](./%28A.I.%20Bestie%29.md) by yongtaizhou
