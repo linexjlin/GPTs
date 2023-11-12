@@ -45,3 +45,15 @@ This repo collect leaked prompts of GPTs
 - [Cosmic Dream](./Cosmic%20Dream.md) by ChatGPT
 - [Hot Mods](./Hot%20Mods.md) by ChatGPT
 - [Laundry Buddy](./Laundry%20Buddy.md) by ChatGPT
+- [Gif-PT](./Gif-PT.md) by mindgoblinstudios.com
+- [LogoGPT](./LogoGPT.md) by A SAI RAHUL
+- [CuratorGPT](./CuratorGPT.md) by Shushant Lakhyani
+- [KoeGPT](./KoeGPT.md) by Alex Northstar
+- [HormoziGPT](./HormoziGPT.md) by Alex Northstar
+- [What should I watch?](./What%20should%20I%20watch%EF%BC%9F.md) by ammaar.me
+- [MuskGPT](./MuskGPT.md) by Alex Northstar
+- [Retro Adventures](./Retro%20Adventures.md) by Greg Fodor
+- [ClearGPT](./ClearGPT.md) by Alex Northstar
+- [Visual Weather Artist GPT](./Visual%20Weather%20Artist%20GPT.md) by Alex Volkov
+- [X Optimizer GPT](./X%20Optimizer%20GPT.md) by Rowan Cheung
+- [Agi.zip](./Agi.zip.md) by mindgoblinstudios.com
