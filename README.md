@@ -67,3 +67,6 @@ This repo collect leaked prompts of GPTs
 - [AI Doctor](./AI%20Doctor.md) by Yaniv Goldenberg
 - [AI Paper Polisher Pro](./AI%20Paper%20Polisher%20Pro.md) by Haiwen Huang
 - [(A.I. Bestie)](./%28A.I.%20Bestie%29.md) by yongtaizhou
+- [MetabolismBoosterGPT](./MetabolismBoosterGPT.md) by Shushant Lakhyani
+- [悲慘世界 RPG](./%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%20RPG.md) by LU CHE YU
+- [SEObot](./SEObot.md) by seobotai.com
