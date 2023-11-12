@@ -2,6 +2,7 @@
 By Kiseki Technologies Limited
 
 A concise mentor to startup CEOs, offering wisdom from business icons
+
 https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt
 
 ```markdown
