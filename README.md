@@ -69,3 +69,7 @@ This repo collect leaked prompts of GPTs
 - [(A.I. Bestie)](./%28A.I.%20Bestie%29.md) by yongtaizhou
 - [MetabolismBoosterGPT](./MetabolismBoosterGPT.md) by Shushant Lakhyani
 - [悲慘世界 RPG](./%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%20RPG.md) by LU CHE YU
+- [Secret Code Guardian](./Secret%20Code%20Guardian.md) by pyroprompts.com
+- [High-Quality Review Analyzer](./High-Quality%20Review%20Analyzer.md) by Caitlin Hathaway
+- [AI Lover](./AI%20Lover.md) by 廖芳國
+- [TaxGPT](./TaxGPT.md) by Phat Pham
