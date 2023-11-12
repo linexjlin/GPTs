@@ -57,3 +57,11 @@ This repo collect leaked prompts of GPTs
 - [Visual Weather Artist GPT](./Visual%20Weather%20Artist%20GPT.md) by Alex Volkov
 - [X Optimizer GPT](./X%20Optimizer%20GPT.md) by Rowan Cheung
 - [Agi.zip](./Agi.zip.md) by mindgoblinstudios.com
+- [Simpsonize Me](./Simpsonize%20Me.md) by octaneai.com
+- [plugin surf](./plugin%20surf.md) by dumpling.software
+- [Book to Prompt](./Book%20to%20Prompt.md) by Lucas C Pimentel
+- [ALL IN GPT](./ALL%20IN%20GPT.md) by KRUGER CLINTIN LYLE
+- [ScholarAI](./ScholarAI.md) by Lakshya Bakshi
+- [Character Forger](./Character%20Forger.md) by learnaiwiz.com
+- [10x Engineer](./10x%20Engineer.md) by Jacob Ottiger
+- [AI Doctor](./AI%20Doctor.md) by Yaniv Goldenberg
