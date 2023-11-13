@@ -98,3 +98,7 @@ This repo collect leaked prompts of GPTs
 - [老爸，该怎么办？](./老爸，该怎么办？.md) by Junmin Liu
 - [Code Explainer](./Code%20Explainer.md) by promptboom.com
 - [All-around Writer (Professional Version)](./All-around%20Writer%20(Professional%20Version).md) by Kevin Ivery
+- [Story Spock](./Story%20Spock.md) by learnaiwiz.com
+- [Blog Expert](./Blog%20Expert.md) by Faisal Binateeq
+- [Paw Pal](./Paw%20Pal.md) by coreachdigital.com
+- [GPT Shop Keeper](./GPT%20Shop%20Keeper.md) by mindgoblinstudios.com
