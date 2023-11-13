@@ -73,3 +73,7 @@ This repo collect leaked prompts of GPTs
 - [High-Quality Review Analyzer](./High-Quality%20Review%20Analyzer.md) by Caitlin Hathaway
 - [AI Lover](./AI%20Lover.md) by 廖芳國
 - [TaxGPT](./TaxGPT.md) by Phat Pham
+- [天官庙的刘半仙](./天官庙的刘半仙.md)
+- [ConvertAnything](./ConvertAnything.md) by Pietro Schirano
+- [痤疮治疗指南](./痤疮治疗指南.md) by community builder
+- [猫耳美少女イラストメーカー](./猫耳美少女イラストメーカー.md)
