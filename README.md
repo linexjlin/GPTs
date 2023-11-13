@@ -77,3 +77,8 @@ This repo collect leaked prompts of GPTs
 - [ConvertAnything](./ConvertAnything.md) by Pietro Schirano
 - [痤疮治疗指南](./痤疮治疗指南.md) by community builder
 - [猫耳美少女イラストメーカー](./猫耳美少女イラストメーカー.md)
+- [toonGPT](./toonGPT.md) by indievish.com
+- [Viral Hooks Generator](./Viral%20Hooks%20Generator.md) by Muhammad Hassan Asghar
+- [OpenStorytelling Plus](./OpenStorytelling%20Plus.md) by BRYAN HARRIS
+- [Choose your own adventure!](./Choose%20your%20own%20adventure!.md)
+- [Pic-book Artist](./Pic-book%20Artist.md) by ZHANG RUI
