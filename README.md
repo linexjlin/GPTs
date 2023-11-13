@@ -82,3 +82,7 @@ This repo collect leaked prompts of GPTs
 - [OpenStorytelling Plus](./OpenStorytelling%20Plus.md) by BRYAN HARRIS
 - [Choose your own adventure!](./Choose%20your%20own%20adventure!.md)
 - [Pic-book Artist](./Pic-book%20Artist.md) by ZHANG RUI
+- [Quality Raters SEO Guide](./Quality%20Raters%20SEO%20Guide.md) by Laurent Jean
+- [GymStreak Workout Creator](./GymStreak%20Workout%20Creator.md) by Joseph Mambwe
+- [Video Game Almanac](./Video%20Game%20Almanac.md) by Evan Betley
+- [脏话连篇](./脏话连篇.md) by Junmin Liu
