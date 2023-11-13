@@ -86,3 +86,10 @@ This repo collect leaked prompts of GPTs
 - [GymStreak Workout Creator](./GymStreak%20Workout%20Creator.md) by Joseph Mambwe
 - [Video Game Almanac](./Video%20Game%20Almanac.md) by Evan Betley
 - [脏话连篇](./脏话连篇.md) by Junmin Liu
+- [小坏蛋](./小坏蛋.md) by 李继刚
+- [Mystic 占卜🔮](./Mystic%20占卜🔮.md) by community builder
+- [DomainsGPT](./DomainsGPT.md) by oneword.domains
+- [Weather Artist](./Weather%20Artist.md) by Rahul Chakraborty
+- [Secret Keeper](./Secret%20Keeper.md) by Tobias Buschor
+- [Mr. Ranedeer](./Mr.%20Ranedeer.md) by mr-ranedeer.com
+- [YouTubeGPT](./YouTubeGPT.md) by Miguel Piedrafita
