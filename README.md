@@ -93,3 +93,5 @@ This repo collect leaked prompts of GPTs
 - [Secret Keeper](./Secret%20Keeper.md) by Tobias Buschor
 - [Mr. Ranedeer](./Mr.%20Ranedeer.md) by mr-ranedeer.com
 - [YouTubeGPT](./YouTubeGPT.md) by Miguel Piedrafita
+- [TweetX Enhancer](./TweetX%20Enhancer.md) by Viacheslav Kovalevskyi
+- [王阳明](./王阳明.md) by Bruno Konopelski
