@@ -96,6 +96,7 @@ This repo collect leaked prompts of GPTs
 - [TweetX Enhancer](./TweetX%20Enhancer.md) by Viacheslav Kovalevskyi
 - [王阳明](./王阳明.md) by Bruno Konopelski
 - [老爸，该怎么办？](./老爸，该怎么办？.md) by Junmin Liu
+- [虚拟妈妈](./虚拟妈妈.md) by Junmin Liu
 - [Code Explainer](./Code%20Explainer.md) by promptboom.com
 - [All-around Writer (Professional Version)](./All-around%20Writer%20(Professional%20Version).md) by Kevin Ivery
 - [Story Spock](./Story%20Spock.md) by learnaiwiz.com
@@ -112,4 +113,4 @@ This repo collect leaked prompts of GPTs
 - [孫子 - saysay.ai](./孫子%20-%20saysay.ai.md) by Takayuki Fukatsu
 - [LangGPT](./LangGPT.md) by 云中江树
 - [Super Describe](./Super%20Describe.md) by Javier Lopez Lopez
-- [虚拟妈妈](./虚拟妈妈.md) by Junmin Liu
+- [FramerGPT](./FramerGPT.md) by Joe Lee
