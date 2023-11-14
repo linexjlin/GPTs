@@ -102,3 +102,4 @@ This repo collect leaked prompts of GPTs
 - [Blog Expert](./Blog%20Expert.md) by Faisal Binateeq
 - [Paw Pal](./Paw%20Pal.md) by coreachdigital.com
 - [GPT Shop Keeper](./GPT%20Shop%20Keeper.md) by mindgoblinstudios.com
+- [GPT Builder](./GPT%20Builder.md) by ChatGPT
