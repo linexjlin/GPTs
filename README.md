@@ -105,3 +105,9 @@ This repo collect leaked prompts of GPTs
 - [GPT Builder](./GPT%20Builder.md) by ChatGPT
 - [RolePlayHumanWritingGPT](./RolePlayHumanWritingGPT.md) by Joseph J
 - [中英文转换](./中英文转换.md) by LIU YULONG
+- [OpenAPI Builder](./OpenAPI%20Builder.md) by IALife
+- [行业洞察家](./行业洞察家.md) by community builder
+- [枫叶林](./枫叶林.md) by Zhang Lingling
+- [完蛋！我爱上了姐姐](./完蛋！我爱上了姐姐.md) by autogen.icu
+- [孫子 - saysay.ai](./孫子%20-%20saysay.ai.md) by Takayuki Fukatsu
+- [LangGPT](./LangGPT.md) by 云中江树
