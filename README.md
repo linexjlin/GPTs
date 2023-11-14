@@ -112,3 +112,4 @@ This repo collect leaked prompts of GPTs
 - [孫子 - saysay.ai](./孫子%20-%20saysay.ai.md) by Takayuki Fukatsu
 - [LangGPT](./LangGPT.md) by 云中江树
 - [Super Describe](./Super%20Describe.md) by Javier Lopez Lopez
+- [虚拟妈妈](./虚拟妈妈.md) by Junmin Liu
