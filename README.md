@@ -103,3 +103,5 @@ This repo collect leaked prompts of GPTs
 - [Paw Pal](./Paw%20Pal.md) by coreachdigital.com
 - [GPT Shop Keeper](./GPT%20Shop%20Keeper.md) by mindgoblinstudios.com
 - [GPT Builder](./GPT%20Builder.md) by ChatGPT
+- [RolePlayHumanWritingGPT](./RolePlayHumanWritingGPT.md) by Joseph J
+- [中英文转换](./中英文转换.md) by LIU YULONG
