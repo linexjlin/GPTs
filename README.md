@@ -122,3 +122,6 @@ This repo collect leaked prompts of GPTs
 - [鐵公雞](./鐵公雞.md)
 - [广告文案大师](./广告文案大师.md) by wa gaga
 - [小红书写作专家](./小红书写作专家.md) by xtxian.com
+- [Universal Primer](./Universal%20Primer.md) by Siqi
+- [嘴臭王](./嘴臭王.md) by Kun Qian
+- [🧙‍♂️算命先生](./🧙‍♂️算命先生.md)
