@@ -118,3 +118,6 @@ This repo collect leaked prompts of GPTs
 - [GPT Customizer, File Finder & JSON Action Creator](./Customizes%20GPTs%20with%20file%20finding%2C%20action%20creation%2C%20and%20troubleshooting.md) by Webcafe AI
 - [AI算命](./AI算命.md) by Jerrold Bergnaum
 - [TailwindGPT](./TailwindGPT.md) by Miguel Piedrafita
+- [骂醒恋爱脑](./骂醒恋爱脑.md) by bing yan
+- [鐵公雞](./鐵公雞.md)
+- [广告文案大师](./广告文案大师.md) by wa gaga
