@@ -121,3 +121,4 @@ This repo collect leaked prompts of GPTs
 - [骂醒恋爱脑](./骂醒恋爱脑.md) by bing yan
 - [鐵公雞](./鐵公雞.md)
 - [广告文案大师](./广告文案大师.md) by wa gaga
+- [小红书写作专家](./小红书写作专家.md) by xtxian.com
