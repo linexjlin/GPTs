@@ -131,3 +131,4 @@ This repo collect leaked prompts of GPTs
 - [短视频脚本](./短视频脚本.md) by gpt.hroid.top
 - [Watercolor Illustrator GPT](./Watercolor%20Illustrator%20GPT.md) by Ali Ali
 - [Xhs Writer: Mary](./Xhs%20Writer%20-%20Mary.md) by lysonober.com
+- [Writing Assistant](./Writing%20Assistant.md) by Junmin Liu
