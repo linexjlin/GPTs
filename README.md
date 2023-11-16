@@ -129,3 +129,5 @@ This repo collect leaked prompts of GPTs
 - [知识渊博的健身教练](./知识渊博的健身教练.md) by Xianhong Huang
 - [Ads Generator by Joe](./Ads%20Generator%20by%20Joe.md) by Xiangyang Qiao
 - [短视频脚本](./短视频脚本.md) by gpt.hroid.top
+- [Watercolor Illustrator GPT](./Watercolor%20Illustrator%20GPT.md) by Ali Ali
+- [Xhs Writer: Mary](./Xhs%20Writer%20-%20Mary.md) by lysonober.com
