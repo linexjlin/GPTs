@@ -132,3 +132,4 @@ This repo collect leaked prompts of GPTs
 - [Watercolor Illustrator GPT](./Watercolor%20Illustrator%20GPT.md) by Ali Ali
 - [Xhs Writer: Mary](./Xhs%20Writer%20-%20Mary.md) by lysonober.com
 - [Writing Assistant](./Writing%20Assistant.md) by Junmin Liu
+- [Cross-Border Investigation Assistant 跨境偵查小助手](./Cross-Border%20Investigation%20Assistant%20%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md) by CHANG CHIA KAI
