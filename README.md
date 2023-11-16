@@ -125,3 +125,7 @@ This repo collect leaked prompts of GPTs
 - [Universal Primer](./Universal%20Primer.md) by Siqi
 - [嘴臭王](./嘴臭王.md) by Kun Qian
 - [🧙‍♂️算命先生](./🧙‍♂️算命先生.md)
+- [攻击型领导](./攻击型领导.md) by Sure Lee
+- [知识渊博的健身教练](./知识渊博的健身教练.md) by Xianhong Huang
+- [Ads Generator by Joe](./Ads%20Generator%20by%20Joe.md) by Xiangyang Qiao
+- [短视频脚本](./短视频脚本.md) by gpt.hroid.top
