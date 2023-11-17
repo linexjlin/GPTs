@@ -133,3 +133,9 @@ This repo collect leaked prompts of GPTs
 - [Xhs Writer: Mary](./Xhs%20Writer%20-%20Mary.md) by lysonober.com
 - [Writing Assistant](./Writing%20Assistant.md) by Junmin Liu
 - [Cross-Border Investigation Assistant 跨境偵查小助手](./Cross-Border%20Investigation%20Assistant%20%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md) by CHANG CHIA KAI
+- [子言女友](./子言女友.md) by Yu Dong
+- [HumanWriterGPT](./HumanWriterGPT.md) by rjarivi
+- [The Secret of Monkey Island: Amsterdam](./The%20Secret%20of%20Monkey%20Island-%20Amsterdam.md) by levels.io
+- [凌凤箫](./凌凤箫.md) by community builder
+- [Email Responder Pro](./Email%20Responder%20Pro.md) by Max Krishtul
+- [Blog Post Generator](./Blog%20Post%20Generator.md) by usevisuals.com
