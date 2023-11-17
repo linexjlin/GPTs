@@ -139,3 +139,10 @@ This repo collect leaked prompts of GPTs
 - [凌凤箫](./凌凤箫.md) by community builder
 - [Email Responder Pro](./Email%20Responder%20Pro.md) by Max Krishtul
 - [Blog Post Generator](./Blog%20Post%20Generator.md) by usevisuals.com
+- [金庸群俠傳](./金庸群俠傳.md) by 葉宗瑋
+- [42master-Beck](./42master-Beck.md) by 42master.io
+- [非虚构作品的阅读高手](./非虚构作品的阅读高手.md) by 陈一斌
+- [ID Photo Pro](./ID%20Photo%20Pro.md) by Johnetta Kovacek
+- [解梦大师](./解梦大师.md) by robertmao.com
+- [Fantasy Book Weaver](./Fantasy%20Book%20Weaver.md)
+
