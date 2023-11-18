@@ -145,4 +145,5 @@ This repo collect leaked prompts of GPTs
 - [ID Photo Pro](./ID%20Photo%20Pro.md) by Johnetta Kovacek
 - [解梦大师](./解梦大师.md) by robertmao.com
 - [Fantasy Book Weaver](./Fantasy%20Book%20Weaver.md)
-
+- [LeetCode Problem Solver](./LeetCode%20Problem%20Solver.md) by Arturo Bravo Rovirosa
+- [img2img](./img2img.md) by neural.love
