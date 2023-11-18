@@ -147,3 +147,5 @@ This repo collect leaked prompts of GPTs
 - [Fantasy Book Weaver](./Fantasy%20Book%20Weaver.md)
 - [LeetCode Problem Solver](./LeetCode%20Problem%20Solver.md) by Arturo Bravo Rovirosa
 - [img2img](./img2img.md) by neural.love
+- [Music Writer](./Music%20Writer.md) by Gorden_Sun
+- [武林秘传：江湖探险](./武林秘传：江湖探险.md) by jesselau.com
