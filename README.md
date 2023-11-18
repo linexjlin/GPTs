@@ -149,3 +149,4 @@ This repo collect leaked prompts of GPTs
 - [img2img](./img2img.md) by neural.love
 - [Music Writer](./Music%20Writer.md) by Gorden_Sun
 - [武林秘传：江湖探险](./武林秘传：江湖探险.md) by jesselau.com
+- [Cauldron](./Cauldron.md) by mindgoblinstudios.com
