@@ -150,3 +150,4 @@ This repo collect leaked prompts of GPTs
 - [Music Writer](./Music%20Writer.md) by Gorden_Sun
 - [武林秘传：江湖探险](./武林秘传：江湖探险.md) by jesselau.com
 - [Cauldron](./Cauldron.md) by mindgoblinstudios.com
+- [Consistency Crafter 2024](./Consistency%20Crafter%202024.md) by Dmytro Korol
