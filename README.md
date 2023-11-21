@@ -151,3 +151,5 @@ This repo collect leaked prompts of GPTs
 - [武林秘传：江湖探险](./武林秘传：江湖探险.md) by jesselau.com
 - [Cauldron](./Cauldron.md) by mindgoblinstudios.com
 - [Consistency Crafter 2024](./Consistency%20Crafter%202024.md) by Dmytro Korol
+- [!Breakdown: Outline Any Topic](./Breakdown%20Outline%20Any%20Topic.md) by puzzle.today
+ - [!The Rizz Game](./The%20Rizz%20Game.md) by puzzle.today
