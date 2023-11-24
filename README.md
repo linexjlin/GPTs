@@ -155,3 +155,4 @@ This repo collect leaked prompts of GPTs
 - [!The Rizz Game](./The%20Rizz%20Game.md) by puzzle.today
 - [超级Dalle](./超级Dalle.md) by myaiforce.com
 - [Makise Kurisu](./Makise%20Kurisu.md)
+- [Phoenix Ink](./Phoenix%20Ink.md) by MEHMET GENCAY IŞIK
