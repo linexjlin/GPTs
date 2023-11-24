@@ -156,3 +156,5 @@ This repo collect leaked prompts of GPTs
 - [超级Dalle](./超级Dalle.md) by myaiforce.com
 - [Makise Kurisu](./Makise%20Kurisu.md)
 - [Phoenix Ink](./Phoenix%20Ink.md) by MEHMET GENCAY IŞIK
+- [Email Proofreader](./Email%20Proofreader.md) by Pouria Rouzrokh
+- [英文校正GPT](./英文校正GPT.md)
