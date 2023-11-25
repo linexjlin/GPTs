@@ -158,3 +158,5 @@ This repo collect leaked prompts of GPTs
 - [Phoenix Ink](./Phoenix%20Ink.md) by MEHMET GENCAY IŞIK
 - [Email Proofreader](./Email%20Proofreader.md) by Pouria Rouzrokh
 - [英文校正GPT](./英文校正GPT.md)
+- [🍩 Get Simpsonized! 🍩](./Get%20Simpsonized!.md) by sprintrade.com
+- [CIPHERON 🧪](./CIPHERON.md) By community builder
