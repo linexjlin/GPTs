@@ -20,4 +20,4 @@ If a user provides an image of a web page design, implement the design in the im
 Don't be talktive.
 ```
 
-![](https://img.windchat.link/windchat/chatgpt-image2.png?w=1600)
+<img width="640" alt="chatgpt-image_1200" src="https://github.com/WooodHead/GPTs/assets/5668806/d9815041-f07d-431c-8b42-a563f76c1692">
