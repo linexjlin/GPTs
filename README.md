@@ -26,7 +26,7 @@ This repo collect leaked prompts of GPTs
 - [Sarcastic Humorist](./Sarcastic%20Humorist.md) by Irene L Williams
 - [Manga Miko - Anime Girlfriend](./Manga%20Miko%20-%20Anime%20Girlfriend.md) by Declan Gessel
 - [OCR-GPT](./OCR-GPT.md) by Siyang Qiu
-- [AI PDF](./AI%20PDF.md) by myaidrive.com
+- [Ai PDF](./Ai%20PDF.md) by myaidrive.com
 - [完蛋，我被美女包围了(AI同人)](./完蛋，我被美女包围了(AI同人).md) by ikena.ai
 - [Virtual Sweetheart](./Virtual%20Sweetheart.md) by Ryan Imgrund
 - [Synthia 😋🌟](./Synthia%20%F0%9F%98%8B%F0%9F%8C%9F.md) by BENARY Jacquis Ronaldo
@@ -117,6 +117,7 @@ This repo collect leaked prompts of GPTs
 - [20K Vocab Builder](./20K%20Vocab%20Builder.md) by Community Builder
 - [GPT Customizer, File Finder & JSON Action Creator](./Customizes%20GPTs%20with%20file%20finding%2C%20action%20creation%2C%20and%20troubleshooting.md) by Webcafe AI
 - [AI算命](./AI算命.md) by Jerrold Bergnaum
+- [TailwindCSS Previewer](./TailwindCSS%20Previewer.md) by WindChat.link
 - [TailwindGPT](./TailwindGPT.md) by Miguel Piedrafita
 - [骂醒恋爱脑](./骂醒恋爱脑.md) by bing yan
 - [鐵公雞](./鐵公雞.md)
