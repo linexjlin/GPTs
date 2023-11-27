@@ -160,3 +160,4 @@ This repo collect leaked prompts of GPTs
 - [英文校正GPT](./英文校正GPT.md)
 - [🍩 Get Simpsonized! 🍩](./Get%20Simpsonized!.md) by sprintrade.com
 - [CIPHERON 🧪](./CIPHERON.md) By community builder
+- [Nomad List](./Nomad%20List.md) by photoai.com
