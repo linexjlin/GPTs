@@ -1,5 +1,5 @@
 # GPTs
-This repo collect leaked prompts of GPTs
+This repo collects leaked prompts of GPTs.
 
 ## Prompts of GPTs
 - [BabyAgi.txt](./BabyAgi.txt.md) by Nicholas Dobos
@@ -10,7 +10,7 @@ This repo collect leaked prompts of GPTs
 - [genz 4 meme](genz%204%20meme.md) by ChatGPT
 - [Math Mentor](./Math%20Mentor.md) by ChatGPT
 - [Interview Coach](Interview%20Coach.md) by Danny Graziosi
-- [The Negotiator](./The%20Negotiator.md)  by ChatGPT
+- [The Negotiator](./The%20Negotiator.md) by ChatGPT
 - [Sous Chef](./Sous%20Chef.md) by ChatGPT
 - [Tech Support Advisor](./Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./Sticker%20Whiz.md) by ChatGPT
@@ -160,7 +160,7 @@ This repo collect leaked prompts of GPTs
 - [Email Proofreader](./Email%20Proofreader.md) by Pouria Rouzrokh
 - [英文校正GPT](./英文校正GPT.md)
 - [🍩 Get Simpsonized! 🍩](./Get%20Simpsonized!.md) by sprintrade.com
-- [CIPHERON 🧪](./CIPHERON.md) By community builder
+- [CIPHERON 🧪](./CIPHERON.md) by community builder
 - [Nomad List](./Nomad%20List.md) by photoai.com
 - [CEO GPT](./CEO%20GPT.md) by Kiseki Technologies Limited
 - [Creative Writing Coach](./Creative%20Writing%20Coach.md) by ChatGPT
