@@ -165,3 +165,6 @@ This repo collects leaked prompts of GPTs.
 - [CEO GPT](./CEO%20GPT.md) by Kiseki Technologies Limited
 - [Creative Writing Coach](./Creative%20Writing%20Coach.md) by ChatGPT
 - [Mocktail Mixologist](./Mocktail%20Mixologist.md) by ChatGPT
+- [Assistente AI per CEO marketing oriented](./Assistente%20AI%20per%20CEO%20marketing%20oriented.md) by Giorgio FATARELLA
+- [Captain Action](./Captain%20Action.md) by Yohei Nakajima
+- [Naruto GPT](./Naruto%20GPT.md) by selerite.com
