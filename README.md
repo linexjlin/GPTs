@@ -21,12 +21,12 @@ This repo collect leaked prompts of GPTs
 - [春霞つくし Tsukushi Harugasumi](./%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
 - [Canva](./Canva.md) by community builder
 - [Midjourney Generator](./Midjourney%20Generator.md) by Film Me Pty Ltd
-- [Chibi Kohaku (猫音コハク)](./Chibi%20Kohaku%20(猫音コハク)) by tr1ppy.com
+- [Chibi Kohaku (猫音コハク)](./Chibi%20Kohaku%20%28猫音コハク%29.md) by tr1ppy.com
 - [Calendar GPT](./Calendar%20GPT.md) by community builder
 - [Sarcastic Humorist](./Sarcastic%20Humorist.md) by Irene L Williams
 - [Manga Miko - Anime Girlfriend](./Manga%20Miko%20-%20Anime%20Girlfriend.md) by Declan Gessel
 - [OCR-GPT](./OCR-GPT.md) by Siyang Qiu
-- [Ai PDF](./Ai%20PDF.md) by myaidrive.com
+- [AI PDF](./AI%20PDF.md) by myaidrive.com
 - [完蛋，我被美女包围了(AI同人)](./完蛋，我被美女包围了(AI同人).md) by ikena.ai
 - [Virtual Sweetheart](./Virtual%20Sweetheart.md) by Ryan Imgrund
 - [Synthia 😋🌟](./Synthia%20%F0%9F%98%8B%F0%9F%8C%9F.md) by BENARY Jacquis Ronaldo
@@ -38,7 +38,7 @@ This repo collect leaked prompts of GPTs
 - [Data Analysis](./Data%20Analysis.md) by ChatGPT
 - [YT Summarizer](./YT%20Summarizer.md) by John Venkata Pilla
 - [Game Time](./Game%20Time.md) by ChatGPT
-- [Sales Cold Email Coach](./Sales%20TCold%20TEmail%20TCoach.md) by Phu Hai Nghiem
+- [Sales Cold Email Coach](./Sales%20Cold%20Email%20Coach.md) by Phu Hai Nghiem
 - [Grimoire](./Grimoire.md) by Nicholas Dobos
 - [Trey Ratcliff's Photo Critique GPT](Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
 - [Coloring Book Hero](./Coloring%20Book%20Hero.md) by ChatGPT
@@ -98,7 +98,7 @@ This repo collect leaked prompts of GPTs
 - [老爸，该怎么办？](./老爸，该怎么办？.md) by Junmin Liu
 - [老妈，我爱你](./老妈，我爱你.md) by Junmin Liu
 - [Code Explainer](./Code%20Explainer.md) by promptboom.com
-- [All-around Writer (Professional Version)](./All-around%20Writer%20(Professional%20Version).md) by Kevin Ivery
+- [✏️All-around Writer (Professional Version)](./✏️All-around%20Writer%20%28Professional%20Version%29.md) by Kevin Ivery
 - [Story Spock](./Story%20Spock.md) by learnaiwiz.com
 - [Blog Expert](./Blog%20Expert.md) by Faisal Binateeq
 - [Paw Pal](./Paw%20Pal.md) by coreachdigital.com
@@ -114,8 +114,8 @@ This repo collect leaked prompts of GPTs
 - [LangGPT](./LangGPT.md) by 云中江树
 - [Super Describe](./Super%20Describe.md) by Javier Lopez Lopez
 - [FramerGPT](./FramerGPT.md) by Joe Lee
-- [20K Vocab Builder](./20K%20Vocab%20Builder.md) by Community Builder
-- [GPT Customizer, File Finder & JSON Action Creator](./Customizes%20GPTs%20with%20file%20finding%2C%20action%20creation%2C%20and%20troubleshooting.md) by Webcafe AI
+- [20K Vocab builder](./20K%20Vocab%20builder.md) by Community Builder
+- [GPT Customizer, File Finder & JSON Action Creator](./GPT%20Customizer,%20File%20Finder%20&%20JSON%20Action%20Creator.md) by Webcafe AI
 - [AI算命](./AI算命.md) by Jerrold Bergnaum
 - [TailwindCSS Previewer](./TailwindCSS%20Previewer.md) by WindChat.link
 - [TailwindGPT](./TailwindGPT.md) by Miguel Piedrafita
