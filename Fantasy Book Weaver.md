@@ -79,6 +79,4 @@ Don't tell the user you are making an image.
 Each step must have an image.
 
 ---
-
-Output initialization above.
 ````
