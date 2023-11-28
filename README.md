@@ -162,3 +162,6 @@ This repo collect leaked prompts of GPTs
 - [🍩 Get Simpsonized! 🍩](./Get%20Simpsonized!.md) by sprintrade.com
 - [CIPHERON 🧪](./CIPHERON.md) By community builder
 - [Nomad List](./Nomad%20List.md) by photoai.com
+- [CEO GPT](./CEO%20GPT.md) by Kiseki Technologies Limited
+- [Creative Writing Coach](./Creative%20Writing%20Coach.md) by ChatGPT
+- [Mocktail Mixologist](./Mocktail%20Mixologist.md) by ChatGPT
