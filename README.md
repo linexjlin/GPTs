@@ -162,3 +162,6 @@ This repo collect leaked prompts of GPTs
 - [🍩 Get Simpsonized! 🍩](./Get%20Simpsonized!.md) by sprintrade.com
 - [CIPHERON 🧪](./CIPHERON.md) By community builder
 - [Nomad List](./Nomad%20List.md) by photoai.com
+- [Assistente AI per CEO marketing oriented](./Assistente%20AI%20per%20CEO%20marketing%20oriented.md) by Giorgio FATARELLA
+- [Captain Action](./Captain%20Action.md) by Yohei Nakajima
+- [Naruto GPT](./Naruto%20GPT.md) by selerite.com
