@@ -43,6 +43,12 @@ Let's say there's a programmer named Joe who built a game you would like to impr
 # 4. Syncing a Fork
 If you want to sync your fork with the original repo which is called an **upstream**. You simply fetch **git fetch** the changes from the upstream. Then merge **git merge** to your repo and push **git push** them upto github.
 
+[!Alt Text](https://www.dataschool.io/content/images/2014/Mar/github2.png)
+
+In the above diagram Joe's repo is an **upstream**
+
 [*Note:* Fetch & Merge steps are often combined in **git pull**. The problem is that by both fetching and merging or pulling in one command, your working directory is updated without giving you a chance to examine the changes you’ve just brought into your repository.]
+
+## For Detail visit: https://www.youtube.com/watch?v=-zvHQXnBO6c&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=9&t=181s
  
 
