@@ -5,7 +5,7 @@ In version control, initialization creates a new, **empty repository**.
 Version control, also known as source control, is the process of managing and tracking changes to software code. Version control systems are software tools that help software teams manage changes to source code over time
 
 # 2. Add Files & Commit
-As writing this documentation, I will stage this repo using ==git add.== command
+As writing this documentation, I will stage this repo using **git add.** command. Then I will commit using **git commit -m "Commit"** command. Then I will Push the changes to my repo using **git push** command.
 
 # 3. Difference between Forking and Cloning a Repository
 
@@ -24,4 +24,9 @@ Remember:
 - **Forking:** Creating a personal copy on your GitHub account.
 - **Cloning:** Bringing a copy of the repository to your local machine.
 
+![alt text](C:\Users\Muhamad Abbas\Pictures\Saved Pictures)
+
+
+# 4. Syncing a Fork
+Let's start with a figure:
 
