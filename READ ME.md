@@ -1,8 +1,13 @@
-# Muhammad Abbas TASK 2 FORK & COPY of Repo
-1. Forked a Public repo
-2. Then cloned it to my local machine
+# Muhammad Abbas TASK 2 Detailed Git Operations
 
-# Difference between Forking and Cloning a Repository
+# 1. Initialize a Git Repository
+In version control, initialization creates a new, **empty repository**.
+Version control, also known as source control, is the process of managing and tracking changes to software code. Version control systems are software tools that help software teams manage changes to source code over time
+
+# 2. Add Files & Commit
+As writing this documentation, I will stage this repo using ==git add.== command
+
+# 3. Difference between Forking and Cloning a Repository
 
 ## Fork & Clone: Understanding the Basics
 
