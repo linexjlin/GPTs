@@ -24,7 +24,7 @@ Remember:
 - **Forking:** Creating a personal copy on your GitHub account.
 - **Cloning:** Bringing a copy of the repository to your local machine.
 
-![alt text](C:\Users\Muhamad Abbas\Pictures\Saved Pictures)
+![alt text](https://drive.google.com/file/d/1vYGGZDaMLcWEqWps1WyUra58F8cvm2MW/view?usp=drive_link)
 
 
 # 4. Syncing a Fork
