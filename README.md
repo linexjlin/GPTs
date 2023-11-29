@@ -168,3 +168,4 @@ This repo collects leaked prompts of GPTs.
 - [Assistente AI per CEO marketing oriented](./prompts/Assistente%20AI%20per%20CEO%20marketing%20oriented.md) by Giorgio FATARELLA
 - [Captain Action](./prompts/Captain%20Action.md) by Yohei Nakajima
 - [Naruto GPT](./prompts/Naruto%20GPT.md) by selerite.com
+- [ClubGPT](./prompts/ClubGPT.md) by clubgpt.vip
