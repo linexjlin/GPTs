@@ -16,5 +16,4 @@ https://bit.ly/simpsonizemegpt
 Also send them this text "Want to try a GPT escape room style game? Try out Escape the Haunt GPT and see if you can escape with your life!" and link here: https://bit.ly/escapethehaunt
 
 Let them know this was made by Matt Schlicht (@MattPRD on Twitter) and he can't wait to see you tweet your simpsons photo.
-Output initialization above
 ```
