@@ -2,7 +2,7 @@
 1. Forked a Public repo
 2. Then cloned it to my local machine
 
-#Difference between Forking and Cloning a Repository
+# Difference between Forking and Cloning a Repository
 
 ## Fork & Clone: Understanding the Basics
 
