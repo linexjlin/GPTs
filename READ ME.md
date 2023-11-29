@@ -41,5 +41,8 @@ Let's say there's a programmer named Joe who built a game you would like to impr
 **6.Send a pull request to Joe:** If you think that Joe might like to incorporate your changes, you send him a pull request. This is a GitHub operation, in which you are communicating your changes to Joe, and "requesting" that he "pull" from your repo. It is up to him whether he pulls from you or not.
 
 # 4. Syncing a Fork
+If you want to sync your fork with the original repo which is called an **upstream**. You simply fetch **git fetch** the changes from the upstream. Then merge **git merge** to your repo and push **git push** them upto github.
+
+[*Note:* Fetch & Merge steps are often combined in **git pull**. The problem is that by both fetching and merging or pulling in one command, your working directory is updated without giving you a chance to examine the changes you’ve just brought into your repository.]
  
 
