@@ -47,8 +47,20 @@ If you want to sync your fork with the original repo which is called an **upstre
 
 In the above diagram Joe's repo is an **upstream**
 
+During our 2nd session, when we forked Sir Sheraz's 2nd session repo, then we cloned it into our system. On 3rd day Sir. Sheraz updated the repo for that day's session. Our repo was out of Sync with Sir.Sheraz's repo. So to be in Sync we need to add an **upstream** remote that points to Sir.Sherez's repo, to fetch updates and merge with our repo.
+
+Commands:
+* git remote add upstream <-ssh of sir.Sheraz's repo->
+* git fetch upstream
+That command fetches the changes and stores them in a branch.
+Now to merge this branch we will type
+* git merge <-branch name->
+
 [*Note:* Fetch & Merge steps are often combined in **git pull**. The problem is that by both fetching and merging or pulling in one command, your working directory is updated without giving you a chance to examine the changes you’ve just brought into your repository.]
 
-## For Detail visit: https://www.youtube.com/watch?v=-zvHQXnBO6c&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=9&t=181s
+
+### For Detail visit: https://www.youtube.com/watch?v=-zvHQXnBO6c&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=9&t=181s
  
+
+# 5. Branching & Pull Request
 
