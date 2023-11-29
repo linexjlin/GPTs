@@ -4,7 +4,7 @@
 
 #Difference between Forking and Cloning a Repository
 
-Forking  | Cloning
+Fork          | Clone
 ------------- | -------------
-Content Cell  | Content Cell
+*Forking is done on the GitHub Account  | Content Cell
 Content Cell  | Content Cell
