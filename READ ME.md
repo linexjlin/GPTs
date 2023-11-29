@@ -24,9 +24,23 @@ Remember:
 - **Forking:** Creating a personal copy on your GitHub account.
 - **Cloning:** Bringing a copy of the repository to your local machine.
 
-![alt text](https://drive.google.com/file/d/1vYGGZDaMLcWEqWps1WyUra58F8cvm2MW/view?usp=drive_link)
 
 
 # 4. Syncing a Fork
-Let's start with a figure:
+
+<div style="display: flex; justify-content: space-between;">
+
+   <div style="width: 48%; border: 1px solid #ccc; padding: 10px;">
+      <!-- Content for the first rectangle goes here -->
+      This is the content for the first rectangle.
+   </div>
+
+   <div style="width: 48%; border: 1px solid #ccc; padding: 10px;">
+      <!-- Content for the second rectangle goes here -->
+      This is the content for the second rectangle.
+   </div>
+
+</div>
+
+
 
