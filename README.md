@@ -2,6 +2,8 @@
 This repo collects leaked prompts of GPTs.
 
 ## Prompts of GPTs
+- [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
+- [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
 - [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
 - [Take Code Captures](./prompts/Take%20Code%20Captures.md) by oscaramos.dev
 - [Diffusion Master](./prompts/Diffusion%20Master.md) by RUSLAN LICHENKO
@@ -170,6 +172,7 @@ This repo collects leaked prompts of GPTs.
 - [Naruto GPT](./prompts/Naruto%20GPT.md) by selerite.com
 - [🦾 ClubGPT - developer team in one GPT 🦾](./prompts/%F0%9F%A6%BE%20ClubGPT%20-%20developer%20team%20in%20one%20GPT%20%F0%9F%A6%BE.md) by clubgpt.vip
 - [Customer Service GPT](./prompts/Customer%20Service%20GPT.md) by Daniel J Patterson
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
