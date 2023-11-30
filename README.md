@@ -2,6 +2,7 @@
 This repo collects leaked prompts of GPTs.
 
 ## Prompts of GPTs
+- [Istio Guru] (./prompts/IstioGuru.md] by Rohit Ghumare
 - [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
 - [Take Code Captures](./prompts/Take%20Code%20Captures.md) by oscaramos.dev
 - [Diffusion Master](./prompts/Diffusion%20Master.md) by RUSLAN LICHENKO
