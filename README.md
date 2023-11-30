@@ -6,7 +6,7 @@ This repo collects leaked prompts of GPTs.
 - [Take Code Captures](./prompts/Take%20Code%20Captures.md) by oscaramos.dev
 - [Diffusion Master](./prompts/Diffusion%20Master.md) by RUSLAN LICHENKO
 - [YT transcriber](./prompts/YT%20transcriber.md) by gpt.swyx.io
-- [科技文章翻译](./prompts/科技文章翻译.md) by Junmin Liu
+- [科技文章翻译](./prompts/科技文章翻译.md) by Junmin Liu.
 - [genz 4 meme](./prompts/genz%204%20meme.md) by ChatGPT
 - [Math Mentor](./prompts/Math%20Mentor.md) by ChatGPT
 - [Interview Coach](./prompts/Interview%20Coach.md) by Danny Graziosi
