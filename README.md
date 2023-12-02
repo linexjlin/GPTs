@@ -172,6 +172,7 @@ This repo collects leaked prompts of GPTs.
 - [Naruto GPT](./prompts/Naruto%20GPT.md) by selerite.com
 - [🦾 ClubGPT - developer team in one GPT 🦾](./prompts/%F0%9F%A6%BE%20ClubGPT%20-%20developer%20team%20in%20one%20GPT%20%F0%9F%A6%BE.md) by clubgpt.vip
 - [Customer Service GPT](./prompts/Customer%20Service%20GPT.md) by Daniel J Patterson
+- [中医专家](./prompts/中医专家.md) by asktutor.online
 
 
 ## Open Source GPTs
