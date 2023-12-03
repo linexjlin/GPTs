@@ -172,7 +172,11 @@ This repo collects leaked prompts of GPTs.
 - [Naruto GPT](./prompts/Naruto%20GPT.md) by selerite.com
 - [🦾 ClubGPT - developer team in one GPT 🦾](./prompts/%F0%9F%A6%BE%20ClubGPT%20-%20developer%20team%20in%20one%20GPT%20%F0%9F%A6%BE.md) by clubgpt.vip
 - [Customer Service GPT](./prompts/Customer%20Service%20GPT.md) by Daniel J Patterson
-
+- [Storybook Vision](./prompts/Storybook%20Vision.md) by karenx.com
+- [Starter Pack Generator](./prompts/Starter%20Pack%20Generator.md) by photoai.com
+- [DesignerGPT](./prompts/DesignerGPT.md) by Pietro Schirano
+- [Screenplay GPT](./prompts/Screenplay%20GPT.md) by kyrannio m margharos
+- [ResearchGPT: AI Research Assistant](./prompts/ResearchGPT.md) by consensus.app
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
