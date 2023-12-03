@@ -180,7 +180,7 @@ This repo collects leaked prompts of GPTs.
 - [ResearchGPT: AI Research Assistant](./prompts/ResearchGPT.md) by consensus.app
 - [Auto Stock Analyst Expert](./prompts/Auto%20Stock%20Analyst%20Expert.md) by LEI WEI
 - [Photogasm 2.0](./prompts/Photogasm%202.0.md)
-
+- [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
