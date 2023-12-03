@@ -178,6 +178,8 @@ This repo collects leaked prompts of GPTs.
 - [DesignerGPT](./prompts/DesignerGPT.md) by Pietro Schirano
 - [Screenplay GPT](./prompts/Screenplay%20GPT.md) by kyrannio m margharos
 - [ResearchGPT: AI Research Assistant](./prompts/ResearchGPT.md) by consensus.app
+- [Auto Stock Analyst Expert](./prompts/Auto%20Stock%20Analyst%20Expert.md) by LEI WEI
+- [Photogasm 2.0](./prompts/Photogasm%202.0.md)
 
 
 ## Open Source GPTs
