@@ -182,6 +182,7 @@ This repo collects leaked prompts of GPTs.
 - [Photogasm 2.0](./prompts/Photogasm%202.0.md)
 - [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 - [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
+- [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
