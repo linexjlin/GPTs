@@ -183,7 +183,18 @@ This repo collects leaked prompts of GPTs.
 - [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 - [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
 - [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
-- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨
+- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨 
+- [Bake Off](./prompts/Bake%20Off.md) by mindgoblinstudios.com
+- [Professor Synapse](./prompts/Professor%20Synapse.md) by Joseph Rosenbaum
+- [GPTsdex](./prompts/GPTsdex.md) by gptsdex.com
+- [HongKongGPT](./prompts/HongKongGPT.md)
+- [Toronto City Council Guide](./prompts/Toronto%20City%20Council%20Guide.md) by George Bell
+- [YouTubers Creative ToolBox](./prompts/YouTubers%20Creative%20ToolBox.md) by WeSeGo
+- [Evolution Chamber](./prompts/Evolution%20Chamber.md) by mindgoblinstudios.com
+- [Media Magic Mike](./prompts/Media%20Magic%20Mike.md) by jbgpts.com
+- [GPT Idea Genie](./prompts/GPT%20Idea%20Genie.md) by silentdis.co
+- [Video Scripter](./prompts/Video%20Scripter.md) by Ruben Messerschmidt
+- [SWOT Analysis](./prompts/SWOT%20Analysis.md) by B M O SOLANO
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
