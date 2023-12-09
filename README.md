@@ -183,6 +183,7 @@ This repo collects leaked prompts of GPTs.
 - [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 - [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
 - [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
+- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
