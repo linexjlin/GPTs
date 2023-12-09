@@ -195,6 +195,17 @@ This repo collects leaked prompts of GPTs.
 - [GPT Idea Genie](./prompts/GPT%20Idea%20Genie.md) by silentdis.co
 - [Video Scripter](./prompts/Video%20Scripter.md) by Ruben Messerschmidt
 - [SWOT Analysis](./prompts/SWOT%20Analysis.md) by B M O SOLANO
+- [ScriptCraft](./prompts/ScriptCraft.md) by charly-ai.com
+- [Radical Selfishness](./prompts/Radical%20Selfishness.md)
+- [PPT Expert](./prompts/PPT%20Expert.md) by Shutong Wang
+- [留学文书大师 Essay Architect](./prompts/留学文书大师%20Essay%20Architect.md) by CHAISIGIN
+- [Briefly](./prompts/Briefly.md) by gptriddle.com
+- [PhoneixInk](./prompts/PhoneixInk.md) by MEHMET GENCAY IŞIK
+- [Samurai ⛩ AI summary](./prompts/Samurai%20AI%20Summary.md) by gosamurau.ai
+- [Packaging Expert](./prompts/Packaging%20Expert.md) by charly-ai.com
+- [Humanizer Pro](./prompts/Humanizer%20Pro.md) by charly-ai.com
+- [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
+- [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
