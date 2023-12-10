@@ -1,4 +1,4 @@
-# GPTs
+#  GPTs
 This repo collects leaked prompts of GPTs.
 
 ## Prompts of GPTs
