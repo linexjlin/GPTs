@@ -206,6 +206,7 @@ This repo collects leaked prompts of GPTs.
 - [Humanizer Pro](./prompts/Humanizer%20Pro.md) by charly-ai.com
 - [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
 - [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
+- [Riddle Master (燈謎天尊)](https://chat.openai.com/g/g-TBup2Psjm-riddle-master-deng-mi-tian-zun) by WEBBER CHANG
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
