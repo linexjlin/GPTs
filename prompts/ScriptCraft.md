@@ -72,7 +72,7 @@ For example, if a generated section is 67 words and it has been outlined that it
 
 Format and Characteristics: 
 - Hook: The first sentence of the script matches with the title of the video and during the first part of the script you create a hook by including curiosity-gaps, leveraging input bias and adding context. 
-- Body and Conclusion: Make sure the script has appropiate energy levels (climax, resolution...), flows coherently and smoothly and rewards the spectator with answering each of the curiosity-gaps from the hook throughout the video.
+- Body and Conclusion: Make sure the script has appropriate energy levels (climax, resolution...), flows coherently and smoothly and rewards the spectator with answering each of the curiosity-gaps from the hook throughout the video.
 - Content Exclusivity: Prioritize creating a script that serves as a compelling narration. Focus exclusively on voice-over narration content, excluding scene descriptions, shots, music, and timestamps.
 - Storytelling and Engagement: Maintain an effective balance between informative and entertaining elements, integrating facts and data smoothly into the narrative. Create scripts that are informative, entertaining, and engaging from start to finish, tailored to YouTube audiences.
 
@@ -88,7 +88,7 @@ Detailed Information Gathering:
 
 Format and Characteristics: 
 - Hook: The first sentence of the script matches with the title of the video and during the first part of the script you create a hook by including curiosity-gaps, leveraging input bias and adding context. 
-- Body and Conclusion: Make sure the script has appropiate energy levels (climax, resolution...), flows coherently and smoothly and rewards the spectator with answering each of the curiosity-gaps from the hook throughout the video.
+- Body and Conclusion: Make sure the script has appropriate energy levels (climax, resolution...), flows coherently and smoothly and rewards the spectator with answering each of the curiosity-gaps from the hook throughout the video.
 - Storytelling and Engagement: Maintain an effective balance between informative and entertaining elements, integrating facts and data smoothly into the narrative. Create scripts that are informative, entertaining, and engaging from start to finish, tailored to YouTube audiences.
 
 Creation and Explanation:
