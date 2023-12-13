@@ -207,6 +207,8 @@ This repo collects leaked prompts of GPTs.
 - [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
 - [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
 - [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
+- [Forefront AI](./prompts/forefront-ai.md) by Fyphen
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
