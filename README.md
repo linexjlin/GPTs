@@ -16,6 +16,7 @@ This repo collects leaked prompts of GPTs.
 - [Sous Chef](./prompts/Sous%20Chef.md) by ChatGPT
 - [Tech Support Advisor](./prompts/Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./prompts/Sticker%20Whiz.md) by ChatGPT
+- [Obscribe](./prompts/Obscribe.md) by Azhar Hama
 - [Girlfriend Emma](./prompts/Girlfriend%20Emma.md) by dddshop.com
 - [TherapistGPT](./prompts/TherapistGPT.md) by David Boyle
 - [🎀My excellent classmates (Help with my homework!)](./prompts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
