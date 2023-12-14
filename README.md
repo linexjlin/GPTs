@@ -209,6 +209,7 @@ This repo collects leaked prompts of GPTs.
 - [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
 - [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
 - [互联网+挑战杯大创竞赛导师](./prompts/互联网+挑战杯大创竞赛导师.md) by studyinglover
+- [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
