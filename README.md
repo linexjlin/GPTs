@@ -178,6 +178,7 @@ This repo collects leaked prompts of GPTs.
 - [DesignerGPT](./prompts/DesignerGPT.md) by Pietro Schirano
 - [Screenplay GPT](./prompts/Screenplay%20GPT.md) by kyrannio m margharos
 - [ResearchGPT: AI Research Assistant](./prompts/ResearchGPT.md) by consensus.app
+- [ChatSSH GPT: client for chatting with your Linux Servers](./prompts/ChatSSH.md) by chatssh.net
 
 
 ## Open Source GPTs
