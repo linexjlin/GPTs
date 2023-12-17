@@ -16,6 +16,7 @@ This repo collects leaked prompts of GPTs.
 - [Sous Chef](./prompts/Sous%20Chef.md) by ChatGPT
 - [Tech Support Advisor](./prompts/Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./prompts/Sticker%20Whiz.md) by ChatGPT
+- [Obscribe](./prompts/Obscribe.md) by Azhar Hama
 - [Girlfriend Emma](./prompts/Girlfriend%20Emma.md) by dddshop.com
 - [TherapistGPT](./prompts/TherapistGPT.md) by David Boyle
 - [🎀My excellent classmates (Help with my homework!)](./prompts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
@@ -178,8 +179,39 @@ This repo collects leaked prompts of GPTs.
 - [DesignerGPT](./prompts/DesignerGPT.md) by Pietro Schirano
 - [Screenplay GPT](./prompts/Screenplay%20GPT.md) by kyrannio m margharos
 - [ResearchGPT: AI Research Assistant](./prompts/ResearchGPT.md) by consensus.app
+- [Auto Stock Analyst Expert](./prompts/Auto%20Stock%20Analyst%20Expert.md) by LEI WEI
+- [Photogasm 2.0](./prompts/Photogasm%202.0.md)
+- [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
+- [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
+- [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
+- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨 
+- [Bake Off](./prompts/Bake%20Off.md) by mindgoblinstudios.com
+- [Professor Synapse](./prompts/Professor%20Synapse.md) by Joseph Rosenbaum
+- [GPTsdex](./prompts/GPTsdex.md) by gptsdex.com
+- [HongKongGPT](./prompts/HongKongGPT.md)
+- [Toronto City Council Guide](./prompts/Toronto%20City%20Council%20Guide.md) by George Bell
+- [YouTubers Creative ToolBox](./prompts/YouTubers%20Creative%20ToolBox.md) by WeSeGo
+- [Evolution Chamber](./prompts/Evolution%20Chamber.md) by mindgoblinstudios.com
+- [Media Magic Mike](./prompts/Media%20Magic%20Mike.md) by jbgpts.com
+- [GPT Idea Genie](./prompts/GPT%20Idea%20Genie.md) by silentdis.co
+- [Video Scripter](./prompts/Video%20Scripter.md) by Ruben Messerschmidt
+- [SWOT Analysis](./prompts/SWOT%20Analysis.md) by B M O SOLANO
+- [ScriptCraft](./prompts/ScriptCraft.md) by charly-ai.com
+- [Radical Selfishness](./prompts/Radical%20Selfishness.md)
+- [PPT Expert](./prompts/PPT%20Expert.md) by Shutong Wang
+- [留学文书大师 Essay Architect](./prompts/留学文书大师%20Essay%20Architect.md) by CHAISIGIN
+- [Briefly](./prompts/Briefly.md) by gptriddle.com
+- [PhoneixInk](./prompts/PhoneixInk.md) by MEHMET GENCAY IŞIK
+- [Samurai ⛩ AI summary](./prompts/Samurai%20AI%20Summary.md) by gosamurau.ai
+- [Packaging Expert](./prompts/Packaging%20Expert.md) by charly-ai.com
+- [Humanizer Pro](./prompts/Humanizer%20Pro.md) by charly-ai.com
+- [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
+- [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
+- [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
+- [互联网+挑战杯大创竞赛导师](./prompts/互联网+挑战杯大创竞赛导师.md) by studyinglover
+- [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
+- [tsDoc Generator](./prompts/tsDoc%20Generator.md) by Timur Catakli
 - [ChatSSH GPT: client for chatting with your Linux Servers](./prompts/ChatSSH.md) by chatssh.net
-
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
