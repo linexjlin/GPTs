@@ -1,6 +1,11 @@
 ## ChatSSH
 
+
 SSH client for chatting with your Linux Servers
+
+Have more fun and be more productive 
+
+Get work done by asking your Linux SSH Servers to do what you want.
 
 by chatssh.net
 
