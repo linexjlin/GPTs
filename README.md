@@ -212,6 +212,7 @@ This repo collects leaked prompts of GPTs.
 - [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
 - [tsDoc Generator](./prompts/tsDoc%20Generator.md) by Timur Catakli
 - [Pepegen](./prompts/Pepegen.md) by nader dabit
+- [Small answer](./prompts/Small%20answer.md) by Jason McGhee
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
