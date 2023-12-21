@@ -212,6 +212,7 @@ This repo collects leaked prompts of GPTs.
 - [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
 - [tsDoc Generator](./prompts/tsDoc%20Generator.md) by Timur Catakli
 - [ChatSSH GPT: client for chatting with your Linux Servers](./prompts/ChatSSH.md) by chatssh.net
+- [Pepegen](./prompts/Pepegen.md) by nader dabit
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
