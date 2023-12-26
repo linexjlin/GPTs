@@ -228,6 +228,7 @@ This repo collects leaked prompts of GPTs.
 - [Trending TikTok Hashtags Finder Tool](./prompts/Trending%20TikTok%20Hashtags%20Finder%20Tool.md) by seo.ai
 - [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
 - [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
+- [前端专家；Front-end Expert](./prompts/expert_front_end_developer_role.md) by Neo Zhang
 
 
 
