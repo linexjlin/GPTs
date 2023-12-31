@@ -229,6 +229,7 @@ This repo collects leaked prompts of GPTs.
 - [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
 - [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
 - [前端专家；Front-end Expert](./prompts/expert_front_end_developer_role.md) by Neo Zhang
+- [ChatSSH: talk to your linux computers](./prompts/chatssh.md) by chatssh.net
 
 
 
