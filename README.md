@@ -230,8 +230,8 @@ This repo collects leaked prompts of GPTs.
 - [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
 - [Front-end expert](./prompts/Front-end%20expert.md) by Zhang Xiaoyuan
 - [ChatSSH: talk to your linux computers](./prompts/chatssh.md) by chatssh.net
-
-
+- [Chat NeurIPS](./prompts/Chat%20NeurIPS.md) by myaidrive.com
+- [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
