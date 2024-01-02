@@ -239,6 +239,11 @@ GitHub repos with prompts, actions and knowledge files of existing GPTs.
 - [Open Data Germany](https://github.com/stefangrotz/OpenDataGermanyGPT)
 - [EsperantoGPT](https://github.com/parolteknologio/EsperantoGPT)
 
+## GPT Prompt Analysis
+Analysis and summaries of the GPT prompts.
+
+- [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
+
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=linexjlin/GPTs)
