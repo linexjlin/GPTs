@@ -232,6 +232,8 @@ This repo collects leaked prompts of GPTs.
 - [ChatSSH: talk to your linux computers](./prompts/chatssh.md) by chatssh.net
 - [Chat NeurIPS](./prompts/Chat%20NeurIPS.md) by myaidrive.com
 - [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
+- [AllTrails](./prompts/AllTrails.md)　By alltrails.com
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
