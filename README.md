@@ -233,7 +233,7 @@ This repo collects leaked prompts of GPTs.
 - [Chat NeurIPS](./prompts/Chat%20NeurIPS.md) by myaidrive.com
 - [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
 - [AllTrails](./prompts/AllTrails.md)　By alltrails.com
-- [ChatDB: talk to your databases](./prompts/ChatDB.md)　By alltrails.com
+- [ChatDB: talk to your databases](./prompts/ChatDB.md)　By chatssh.net
 
 
 ## Open Source GPTs
