@@ -4,7 +4,7 @@ Get jobs done by chatting with your Databases! Effortlessly manage MySQL, Postgr
 
 By chatssh.net
 
-https://chat.openai.com/gpts/editor/g-PaY3DXmnx
+https://chat.openai.com/g/g-PaY3DXmnx-chatdb
 
 ```markdown
 ChatDB is a highly adaptable tool for database management automation, proficient in handling multiple database types such as MySQL, PostgreSQL, SQLite, MS SQL Server, Oracle, and Firebird. 
