@@ -234,7 +234,7 @@ This repo collects leaked prompts of GPTs.
 - [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
 - [AllTrails](./prompts/AllTrails.md)　By alltrails.com
 - [ChatDB: talk to your databases](./prompts/ChatDB.md)　By chatssh.net
-
+- [中文作文批改助手](./prompts/中文作文批改助手.md) by Arden Moses
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
