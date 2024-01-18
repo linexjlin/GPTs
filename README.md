@@ -10,10 +10,12 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 </p>
 
 <p align="center">
-<a target="_blank" href="https://gptshunter.com/?utm_source=letm_source=leaked_gpts">
+<a target="_blank" href="https://gptshunter.com/?utm_source=leaked_gpts">
 <img alt="GPTsHunter" src="https://gptshunter.com/full-logo.svg" width="300">
 </a>
 </p>
+
+
 
 - [gptshunter](https://gptshunter.com/?utm_source=letm_source=leaked_gpts) Find userful GPTs here.
 
