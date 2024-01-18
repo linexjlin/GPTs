@@ -17,7 +17,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 
 
 
-- [gptshunter](https://gptshunter.com/?utm_source=letm_source=leaked_gpts) Find userful GPTs here.
+- [gptshunter](https://gptshunter.com/?utm_source=leaked_gpts) Find userful GPTs here.
 
 ## Leaked Prompts of GPTs
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
