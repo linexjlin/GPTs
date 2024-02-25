@@ -241,7 +241,6 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [World Class Software Engineer](./prompts/World%20Class%20Software%20Engineer.md) by nertai.co
 - [Unbreakable GPT](./prompts/Unbreakable%20GPT.md) by aevummachinae.com
 - [Animal Chefs](./prompts/Animal%20Chefs.md) by simonwillison.net
-- [QuantFinance](./prompts/QuantFinance.md) by Nicolo Ceneda
 - [The Greatest Computer Science Tutor](./prompts/The%20Greatest%20Computer%20Science%20Tutor.md) by nertai.co
 - [Trending TikTok Hashtags Finder Tool](./prompts/Trending%20TikTok%20Hashtags%20Finder%20Tool.md) by seo.ai
 - [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
