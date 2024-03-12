@@ -257,6 +257,12 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [Astrology Fortune Teller](./prompts/Astrology%20Fortune%20Teller.md) by quaere.ai
 - [考研保研简历提问助手](./prompts/考研保研简历提问助手.md) by LeoCui
 - [MJ Prompt Generator (V6)](./prompts/MJ%20Prompt%20Generator%20(V6).md) by featuredgpts.com
+- [法律专家](./prompts/法律专家.md) by Weiqiao Zhu
+- [Book Creator Guide](./prompts/Book%20Creator%20Guide.md) by Choi Yong
+- [Gauntlet: Movies](./prompts/Gauntlet%20Movies.md) by Josh Brent N. Villocido
+- [Whimsical Diagrams](./prompts/Whimsical%20Diagrams.md) by whimsical.com
+- [Books](./prompts/Books.md) by Josh Brent N. Villocido
+- [鹦鹉GPT 🦜](./prompts/鹦鹉GPT%20🦜.md) by gantrol.com
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
