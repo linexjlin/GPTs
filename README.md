@@ -256,6 +256,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [Pineapple Builder](./prompts/PineappleBuilder.md)　By Peter Kowalczyk
 - [Astrology Fortune Teller](./prompts/Astrology%20Fortune%20Teller.md) by quaere.ai
 - [考研保研简历提问助手](./prompts/考研保研简历提问助手.md) by LeoCui
+- [MJ Prompt Generator (V6)](./prompts/MJ%20Prompt%20Generator%20(V6).md) by featuredgpts.com
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
