@@ -255,6 +255,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [DeepGame](./prompts/DeepGame.md)　By Utile Labs
 - [Pineapple Builder](./prompts/PineappleBuilder.md)　By Peter Kowalczyk
 - [Astrology Fortune Teller](./prompts/Astrology%20Fortune%20Teller.md) by quaere.ai
+- [考研保研简历提问助手](./prompts/考研保研简历提问助手.md) by LeoCui
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
