@@ -263,6 +263,9 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [Whimsical Diagrams](./prompts/Whimsical%20Diagrams.md) by whimsical.com
 - [Books](./prompts/Books.md) by Josh Brent N. Villocido
 - [鹦鹉GPT 🦜](./prompts/鹦鹉GPT%20🦜.md) by gantrol.com
+- [鲁迅说](./prompts/鲁迅说.md) by QCHEN
+- [Midjouney Prompt Tools](./prompts/Midjouney%20Prompt%20Tools.md) by chatby.xyz
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
