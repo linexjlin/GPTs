@@ -251,6 +251,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [Midjouney Prompt Tools](./prompts/Midjouney%20Prompt%20Tools.md) by chatby.xyz
 - [Mid Journey V6 Prompt Creator](./prompts/Mid%20Journey%20V6%20Prompt%20Creator.md) by jandthebots.com
 - [思维导图](./prompts/思维导图.md) by Tang Youpeng
+- [Diagrams: Show Me](./prompts/Diagrams%20Show%20Me.md) by helpful.dev
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
