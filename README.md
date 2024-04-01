@@ -3,19 +3,6 @@ This repo collects leaked prompts of GPTs.
 
 Most of prompts I colleted from [here](https://x.com/dotey/status/1722831122285932592?s=20)
 
-## Sponsors
-
-<p align="center">
-<h3 align="center">Sponsor</h3>
-</p>
-
-<p align="center">
-<a target="_blank" href="https://gptshunter.com/?utm_source=leaked_gpts">
-<img alt="GPTsHunter" src="https://gptshunter.com/full-logo.svg" width="300">
-</a>
-</p>
-
-
 
 - [gptshunter](https://gptshunter.com/?utm_source=leaked_gpts) Find userful GPTs here.
 
