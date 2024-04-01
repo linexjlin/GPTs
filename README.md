@@ -3,9 +3,6 @@ This repo collects leaked prompts of GPTs.
 
 Most of prompts I colleted from [here](https://x.com/dotey/status/1722831122285932592?s=20)
 
-
-- [gptshunter](https://gptshunter.com/?utm_source=leaked_gpts) Find userful GPTs here.
-
 ## Leaked Prompts of GPTs
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
 - [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
