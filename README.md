@@ -270,7 +270,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [思维导图](./prompts/思维导图.md) by Tang Youpeng
 - [Diagrams: Show Me](./prompts/Diagrams%20Show%20Me.md) by helpful.dev
 - [Write For Me](./prompts/Write%20For%20Me.md) by puzzle.today
-
+- [Logo Creator](./prompts/Logo%20Creator.md) by Chase Lean
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
