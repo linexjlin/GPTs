@@ -1,7 +1,7 @@
 # GPTs
 This repo collects leaked prompts of GPTs. 
 
-Most of prompts I colleted from [here](https://x.com/dotey/status/1722831122285932592?s=20)
+Most of the prompts I collected from [here](https://x.com/dotey/status/1722831122285932592?s=20), some are from GitHub users' pull requests, and some are from using some hacked by me.
 
 
 ## Sponsors
@@ -271,6 +271,7 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 - [Diagrams: Show Me](./prompts/Diagrams%20Show%20Me.md) by helpful.dev
 - [Write For Me](./prompts/Write%20For%20Me.md) by puzzle.today
 - [Logo Creator](./prompts/Logo%20Creator.md) by Chase Lean
+- [董宇辉小作文助手](./prompts/董宇辉小作文助手.md) by wesureai.com
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
