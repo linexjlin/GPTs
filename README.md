@@ -272,6 +272,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Write For Me](./prompts/Write%20For%20Me.md) by puzzle.today
 - [Logo Creator](./prompts/Logo%20Creator.md) by Chase Lean
 - [董宇辉小作文助手](./prompts/董宇辉小作文助手.md) by wesureai.com
+- [Mega-Prompt](./prompts/Mega-Prompt.md) by Aisen Lopez
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
