@@ -274,6 +274,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [董宇辉小作文助手](./prompts/董宇辉小作文助手.md) by wesureai.com
 - [Mega-Prompt](./prompts/Mega-Prompt.md) by Aisen Lopez
 - [Prompt For Me](./prompts/Prompt%20For%20Me.md) by hansgpt.me
+- [Practice English by Debating](./prompts/Practice%20English%20by%20Debating.md) by Utku Sen
+- [Suno音乐歌词创作专家v3.2](./prompts/Suno%E9%9F%B3%E4%B9%90%E6%AD%8C%E8%AF%8D%E5%88%9B%E4%BD%9C%E4%B8%93%E5%AE%B6v3.2.md) by ai momo
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
