@@ -276,6 +276,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Prompt For Me](./prompts/Prompt%20For%20Me.md) by hansgpt.me
 - [Practice English by Debating](./prompts/Practice%20English%20by%20Debating.md) by Utku Sen
 - [Suno音乐歌词创作专家v3.2](./prompts/Suno%E9%9F%B3%E4%B9%90%E6%AD%8C%E8%AF%8D%E5%88%9B%E4%BD%9C%E4%B8%93%E5%AE%B6v3.2.md) by ai momo
+- [Midjourney超级生成器（V5.2 & V6）](./prompts/Midjourney超级生成器（V5.2%20%26%20V6）.md) by gpts.gapier.net
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
