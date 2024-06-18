@@ -280,6 +280,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [GODMODE 2.0](./prompts/GODMODE%202.0.md)
 - [SQL Expert](./prompts/SQL%20Expert.md) by Dmitry Khanukov
 - [Website Generator](./prompts/Website%20Generator.md) by websitegenerator.b12.io
+- [Framework Finder](./prompts/Framework%20Finder.md) by Ethan R Mollick
+- [Math Solver](./prompts/Math%20Solver.md)
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
