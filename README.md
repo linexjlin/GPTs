@@ -266,6 +266,12 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Website Generator](./prompts/Website%20Generator.md) by websitegenerator.b12.io
 - [Framework Finder](./prompts/Framework%20Finder.md) by Ethan R Mollick
 - [Math Solver](./prompts/Math%20Solver.md)
+- [MindMateGPT](./prompts/MindMateGPT.md) by Anthony Carlos Teixeira
+- [BookMate - Book Recommendations](./prompts/BookMate%20-%20Book%20Recommendations.md) by community builder
+- [Android Studio GPT](./prompts/Android%20Studio%20GPT.md) by Rhonal Alonso Delgado Padilla
+- [CBT GPT](./prompts/CBT%20GPT.md) by Brett Evanson
+- [MCQ Creation Assistant](./prompts/MCQ%20Creation%20Assistant.md) by Rowboaterstop AB
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
