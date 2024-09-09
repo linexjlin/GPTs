@@ -161,7 +161,6 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [!Breakdown: Outline Any Topic](./prompts/Breakdown%20Outline%20Any%20Topic.md) by puzzle.today
 - [!The Rizz Game](./prompts/The%20Rizz%20Game.md) by puzzle.today
 - [超级Dalle](./prompts/超级Dalle.md) by myaiforce.com
-- [Makise Kurisu](./prompts/Makise%20Kurisu.md)
 - [Phoenix Ink](./prompts/Phoenix%20Ink.md) by MEHMET GENCAY IŞIK
 - [Email Proofreader](./prompts/Email%20Proofreader.md) by Pouria Rouzrokh
 - [英文校正GPT](./prompts/英文校正GPT.md)
