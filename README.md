@@ -275,6 +275,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [FLUX Prompt Wizard 🪄](./prompts/FLUX%20Prompt%20Wizard.md) by sjgpts.com
 - [LeetCoder Ace](./prompts/LeetCoder%20Ace.md) by YANG YANG
 - [咪蒙标题](./prompts/咪蒙标题.md) by Haibo Liu
+- [Summarizer ㆍYouTube PDF Book Article Web Text Code](./prompts/Summarizer%20%E2%80%A2YouTube%20PDF%20Book%20Article%20Web%20Text%20Code.md) by Frames
+
 
 
 
