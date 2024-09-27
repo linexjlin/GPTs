@@ -274,6 +274,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Code Tutor](./prompts/Code%20Tutor.md) by khanacademy.org
 - [FLUX Prompt Wizard 🪄](./prompts/FLUX%20Prompt%20Wizard.md) by sjgpts.com
 - [LeetCoder Ace](./prompts/LeetCoder%20Ace.md) by YANG YANG
+- [咪蒙标题](./prompts/咪蒙标题.md) by Haibo Liu
+
 
 
 
