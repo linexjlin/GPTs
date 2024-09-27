@@ -270,6 +270,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Android Studio GPT](./prompts/Android%20Studio%20GPT.md) by Rhonal Alonso Delgado Padilla
 - [CBT GPT](./prompts/CBT%20GPT.md) by Brett Evanson
 - [MCQ Creation Assistant](./prompts/MCQ%20Creation%20Assistant.md) by Rowboaterstop AB
+- [Socratic Therapy](./prompts/SocraticTherapy.md) by Kasra Bayani
+- [Code Tutor](./prompts/Code%20Tutor.md) by khanacademy.org
 
 
 ## Open Source GPTs
