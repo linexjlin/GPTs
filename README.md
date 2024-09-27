@@ -272,6 +272,8 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [MCQ Creation Assistant](./prompts/MCQ%20Creation%20Assistant.md) by Rowboaterstop AB
 - [Socratic Therapy](./prompts/SocraticTherapy.md) by Kasra Bayani
 - [Code Tutor](./prompts/Code%20Tutor.md) by khanacademy.org
+- [FLUX Prompt Wizard 🪄](./prompts/FLUX%20Prompt%20Wizard.md) by sjgpts.com
+
 
 
 ## Open Source GPTs
