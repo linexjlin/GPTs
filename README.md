@@ -1,10 +1,12 @@
 # GPTs
-This repo collects leaked prompts of GPTs. 
+
+This repo collects leaked prompts of GPTs.
 
 Most of the prompts I collected from [here](https://x.com/dotey/status/1722831122285932592?s=20), some are from GitHub users' pull requests, and some are from using some hacked by me.
 
-
 ## Leaked Prompts of GPTs
+
+- [OpenAI Voice Mode](./prompts/OpenAI%20Voice%20Mode.md) by Devasheesh Mishra
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
 - [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
 - [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
@@ -46,7 +48,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Game Time](./prompts/Game%20Time.md) by ChatGPT
 - [Sales Cold Email Coach](./prompts/Sales%20Cold%20Email%20Coach.md) by Phu Hai Nghiem
 - [Grimoire](./prompts/Grimoire.md) by Nicholas Dobos
-- [Trey Ratcliff's Photo Critique GPT](./prompts/Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
+- [Trey Ratcliff&#39;s Photo Critique GPT](./prompts/Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
 - [Coloring Book Hero](./prompts/Coloring%20Book%20Hero.md) by ChatGPT
 - [Cosmic Dream](./prompts/Cosmic%20Dream.md) by ChatGPT
 - [Hot Mods](./prompts/Hot%20Mods.md) by ChatGPT
@@ -121,7 +123,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Super Describe](./prompts/Super%20Describe.md) by Javier Lopez Lopez
 - [FramerGPT](./prompts/FramerGPT.md) by Joe Lee
 - [20K Vocab builder](./prompts/20K%20Vocab%20builder.md) by Community Builder
-- [GPT Customizer, File Finder & JSON Action Creator](./prompts/GPT%20Customizer,%20File%20Finder%20&%20JSON%20Action%20Creator.md) by Webcafe AI
+- [GPT Customizer, File Finder &amp; JSON Action Creator](./prompts/GPT%20Customizer,%20File%20Finder%20&%20JSON%20Action%20Creator.md) by Webcafe AI
 - [AI算命](./prompts/AI算命.md) by Jerrold Bergnaum
 - [TailwindCSS Previewer](./prompts/TailwindCSS%20Previewer.md) by WindChat.link
 - [TailwindGPT](./prompts/TailwindGPT.md) by Miguel Piedrafita
@@ -186,7 +188,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 - [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
 - [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
-- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨 
+- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨
 - [Bake Off](./prompts/Bake%20Off.md) by mindgoblinstudios.com
 - [Professor Synapse](./prompts/Professor%20Synapse.md) by Joseph Rosenbaum
 - [GPTsdex](./prompts/GPTsdex.md) by gptsdex.com
@@ -207,7 +209,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Samurai ⛩ AI summary](./prompts/Samurai%20AI%20Summary.md) by gosamurau.ai
 - [Packaging Expert](./prompts/Packaging%20Expert.md) by charly-ai.com
 - [Humanizer Pro](./prompts/Humanizer%20Pro.md) by charly-ai.com
-- [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
+- [Ebook Writer &amp; Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
 - [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
 - [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
 - [互联网+挑战杯大创竞赛导师](./prompts/互联网+挑战杯大创竞赛导师.md) by studyinglover
@@ -259,7 +261,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Prompt For Me](./prompts/Prompt%20For%20Me.md) by hansgpt.me
 - [Practice English by Debating](./prompts/Practice%20English%20by%20Debating.md) by Utku Sen
 - [Suno音乐歌词创作专家v3.2](./prompts/Suno%E9%9F%B3%E4%B9%90%E6%AD%8C%E8%AF%8D%E5%88%9B%E4%BD%9C%E4%B8%93%E5%AE%B6v3.2.md) by ai momo
-- [Midjourney超级生成器（V5.2 & V6）](./prompts/Midjourney超级生成器（V5.2%20%26%20V6）.md) by gpts.gapier.net
+- [Midjourney超级生成器（V5.2 &amp; V6）](./prompts/Midjourney超级生成器（V5.2%20%26%20V6）.md) by gpts.gapier.net
 - [GODMODE 2.0](./prompts/GODMODE%202.0.md)
 - [SQL Expert](./prompts/SQL%20Expert.md) by Dmitry Khanukov
 - [Website Generator](./prompts/Website%20Generator.md) by websitegenerator.b12.io
@@ -277,18 +279,15 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [咪蒙标题](./prompts/咪蒙标题.md) by Haibo Liu
 - [Summarizer ㆍYouTube PDF Book Article Web Text Code](./prompts/Summarizer%20%E2%80%A2YouTube%20PDF%20Book%20Article%20Web%20Text%20Code.md) by Frames
 
-
-
-
-
-
 ## Open Source GPTs
+
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
 
 - [Open Data Germany](https://github.com/stefangrotz/OpenDataGermanyGPT)
 - [EsperantoGPT](https://github.com/parolteknologio/EsperantoGPT)
 
 ## GPT Prompt Analysis
+
 Analysis and summaries of the GPT prompts.
 
 - [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
