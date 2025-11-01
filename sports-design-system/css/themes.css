@@ -1,0 +1,344 @@
+/**
+ * Sports Team Management Design System
+ * Color Themes
+ *
+ * Multiple color palettes optimized for sports applications.
+ * Switch themes by changing the data-theme attribute on the root element.
+ */
+
+/* ===========================
+   THEME: CLASSIC SPORTS
+   Traditional green field colors with athletic energy
+   ========================== */
+:root,
+[data-theme="classic"] {
+  /* Primary Colors - Main brand color */
+  --color-primary-50: #ecfdf5;
+  --color-primary-100: #d1fae5;
+  --color-primary-200: #a7f3d0;
+  --color-primary-300: #6ee7b7;
+  --color-primary-400: #34d399;
+  --color-primary-500: #10b981;
+  --color-primary-600: #059669;
+  --color-primary-700: #047857;
+  --color-primary-800: #065f46;
+  --color-primary-900: #064e3b;
+
+  /* Secondary Colors - Accent color */
+  --color-secondary-50: #fef3c7;
+  --color-secondary-100: #fde68a;
+  --color-secondary-200: #fcd34d;
+  --color-secondary-300: #fbbf24;
+  --color-secondary-400: #f59e0b;
+  --color-secondary-500: #d97706;
+  --color-secondary-600: #b45309;
+  --color-secondary-700: #92400e;
+  --color-secondary-800: #78350f;
+  --color-secondary-900: #451a03;
+
+  /* Neutral Colors */
+  --color-neutral-50: #f9fafb;
+  --color-neutral-100: #f3f4f6;
+  --color-neutral-200: #e5e7eb;
+  --color-neutral-300: #d1d5db;
+  --color-neutral-400: #9ca3af;
+  --color-neutral-500: #6b7280;
+  --color-neutral-600: #4b5563;
+  --color-neutral-700: #374151;
+  --color-neutral-800: #1f2937;
+  --color-neutral-900: #111827;
+
+  /* Semantic Colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #3b82f6;
+
+  /* UI Application Colors */
+  --color-background: #ffffff;
+  --color-surface: #f9fafb;
+  --color-border: #e5e7eb;
+  --color-text-primary: #111827;
+  --color-text-secondary: #6b7280;
+  --color-text-inverse: #ffffff;
+}
+
+/* ===========================
+   THEME: OCEAN BLUE
+   Professional, clean, corporate sports
+   ========================== */
+[data-theme="ocean"] {
+  /* Primary Colors */
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+
+  /* Secondary Colors */
+  --color-secondary-50: #f0fdfa;
+  --color-secondary-100: #ccfbf1;
+  --color-secondary-200: #99f6e4;
+  --color-secondary-300: #5eead4;
+  --color-secondary-400: #2dd4bf;
+  --color-secondary-500: #14b8a6;
+  --color-secondary-600: #0d9488;
+  --color-secondary-700: #0f766e;
+  --color-secondary-800: #115e59;
+  --color-secondary-900: #134e4a;
+
+  /* Neutral Colors */
+  --color-neutral-50: #f8fafc;
+  --color-neutral-100: #f1f5f9;
+  --color-neutral-200: #e2e8f0;
+  --color-neutral-300: #cbd5e1;
+  --color-neutral-400: #94a3b8;
+  --color-neutral-500: #64748b;
+  --color-neutral-600: #475569;
+  --color-neutral-700: #334155;
+  --color-neutral-800: #1e293b;
+  --color-neutral-900: #0f172a;
+
+  /* Semantic Colors */
+  --color-success: #14b8a6;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #3b82f6;
+
+  /* UI Application Colors */
+  --color-background: #ffffff;
+  --color-surface: #f8fafc;
+  --color-border: #e2e8f0;
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #64748b;
+  --color-text-inverse: #ffffff;
+}
+
+/* ===========================
+   THEME: SUNSET ORANGE
+   Energetic, warm, competitive sports
+   ========================== */
+[data-theme="sunset"] {
+  /* Primary Colors */
+  --color-primary-50: #fff7ed;
+  --color-primary-100: #ffedd5;
+  --color-primary-200: #fed7aa;
+  --color-primary-300: #fdba74;
+  --color-primary-400: #fb923c;
+  --color-primary-500: #f97316;
+  --color-primary-600: #ea580c;
+  --color-primary-700: #c2410c;
+  --color-primary-800: #9a3412;
+  --color-primary-900: #7c2d12;
+
+  /* Secondary Colors */
+  --color-secondary-50: #fef2f2;
+  --color-secondary-100: #fee2e2;
+  --color-secondary-200: #fecaca;
+  --color-secondary-300: #fca5a5;
+  --color-secondary-400: #f87171;
+  --color-secondary-500: #ef4444;
+  --color-secondary-600: #dc2626;
+  --color-secondary-700: #b91c1c;
+  --color-secondary-800: #991b1b;
+  --color-secondary-900: #7f1d1d;
+
+  /* Neutral Colors */
+  --color-neutral-50: #fafaf9;
+  --color-neutral-100: #f5f5f4;
+  --color-neutral-200: #e7e5e4;
+  --color-neutral-300: #d6d3d1;
+  --color-neutral-400: #a8a29e;
+  --color-neutral-500: #78716c;
+  --color-neutral-600: #57534e;
+  --color-neutral-700: #44403c;
+  --color-neutral-800: #292524;
+  --color-neutral-900: #1c1917;
+
+  /* Semantic Colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #dc2626;
+  --color-info: #3b82f6;
+
+  /* UI Application Colors */
+  --color-background: #ffffff;
+  --color-surface: #fafaf9;
+  --color-border: #e7e5e4;
+  --color-text-primary: #1c1917;
+  --color-text-secondary: #78716c;
+  --color-text-inverse: #ffffff;
+}
+
+/* ===========================
+   THEME: NIGHT MODE
+   Dark theme for low-light environments
+   ========================== */
+[data-theme="night"] {
+  /* Primary Colors */
+  --color-primary-50: #1e3a8a;
+  --color-primary-100: #1e40af;
+  --color-primary-200: #1d4ed8;
+  --color-primary-300: #2563eb;
+  --color-primary-400: #3b82f6;
+  --color-primary-500: #60a5fa;
+  --color-primary-600: #93c5fd;
+  --color-primary-700: #bfdbfe;
+  --color-primary-800: #dbeafe;
+  --color-primary-900: #eff6ff;
+
+  /* Secondary Colors */
+  --color-secondary-50: #581c87;
+  --color-secondary-100: #6b21a8;
+  --color-secondary-200: #7c3aed;
+  --color-secondary-300: #8b5cf6;
+  --color-secondary-400: #a78bfa;
+  --color-secondary-500: #c4b5fd;
+  --color-secondary-600: #ddd6fe;
+  --color-secondary-700: #ede9fe;
+  --color-secondary-800: #f5f3ff;
+  --color-secondary-900: #faf5ff;
+
+  /* Neutral Colors */
+  --color-neutral-50: #0a0a0a;
+  --color-neutral-100: #171717;
+  --color-neutral-200: #262626;
+  --color-neutral-300: #404040;
+  --color-neutral-400: #525252;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #a3a3a3;
+  --color-neutral-700: #d4d4d4;
+  --color-neutral-800: #e5e5e5;
+  --color-neutral-900: #f5f5f5;
+
+  /* Semantic Colors */
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #60a5fa;
+
+  /* UI Application Colors */
+  --color-background: #0a0a0a;
+  --color-surface: #171717;
+  --color-border: #262626;
+  --color-text-primary: #f5f5f5;
+  --color-text-secondary: #a3a3a3;
+  --color-text-inverse: #0a0a0a;
+}
+
+/* ===========================
+   THEME: PURPLE VICTORY
+   Modern, unique, championship vibes
+   ========================== */
+[data-theme="victory"] {
+  /* Primary Colors */
+  --color-primary-50: #faf5ff;
+  --color-primary-100: #f3e8ff;
+  --color-primary-200: #e9d5ff;
+  --color-primary-300: #d8b4fe;
+  --color-primary-400: #c084fc;
+  --color-primary-500: #a855f7;
+  --color-primary-600: #9333ea;
+  --color-primary-700: #7e22ce;
+  --color-primary-800: #6b21a8;
+  --color-primary-900: #581c87;
+
+  /* Secondary Colors */
+  --color-secondary-50: #fdf4ff;
+  --color-secondary-100: #fae8ff;
+  --color-secondary-200: #f5d0fe;
+  --color-secondary-300: #f0abfc;
+  --color-secondary-400: #e879f9;
+  --color-secondary-500: #d946ef;
+  --color-secondary-600: #c026d3;
+  --color-secondary-700: #a21caf;
+  --color-secondary-800: #86198f;
+  --color-secondary-900: #701a75;
+
+  /* Neutral Colors */
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f4f4f5;
+  --color-neutral-200: #e4e4e7;
+  --color-neutral-300: #d4d4d8;
+  --color-neutral-400: #a1a1aa;
+  --color-neutral-500: #71717a;
+  --color-neutral-600: #52525b;
+  --color-neutral-700: #3f3f46;
+  --color-neutral-800: #27272a;
+  --color-neutral-900: #18181b;
+
+  /* Semantic Colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #3b82f6;
+
+  /* UI Application Colors */
+  --color-background: #ffffff;
+  --color-surface: #fafafa;
+  --color-border: #e4e4e7;
+  --color-text-primary: #18181b;
+  --color-text-secondary: #71717a;
+  --color-text-inverse: #ffffff;
+}
+
+/* ===========================
+   THEME: FIRE RED
+   Intense, passionate, high-energy sports
+   ========================== */
+[data-theme="fire"] {
+  /* Primary Colors */
+  --color-primary-50: #fef2f2;
+  --color-primary-100: #fee2e2;
+  --color-primary-200: #fecaca;
+  --color-primary-300: #fca5a5;
+  --color-primary-400: #f87171;
+  --color-primary-500: #ef4444;
+  --color-primary-600: #dc2626;
+  --color-primary-700: #b91c1c;
+  --color-primary-800: #991b1b;
+  --color-primary-900: #7f1d1d;
+
+  /* Secondary Colors */
+  --color-secondary-50: #fffbeb;
+  --color-secondary-100: #fef3c7;
+  --color-secondary-200: #fde68a;
+  --color-secondary-300: #fcd34d;
+  --color-secondary-400: #fbbf24;
+  --color-secondary-500: #f59e0b;
+  --color-secondary-600: #d97706;
+  --color-secondary-700: #b45309;
+  --color-secondary-800: #92400e;
+  --color-secondary-900: #78350f;
+
+  /* Neutral Colors */
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f5f5f5;
+  --color-neutral-200: #e5e5e5;
+  --color-neutral-300: #d4d4d4;
+  --color-neutral-400: #a3a3a3;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #525252;
+  --color-neutral-700: #404040;
+  --color-neutral-800: #262626;
+  --color-neutral-900: #171717;
+
+  /* Semantic Colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #dc2626;
+  --color-info: #3b82f6;
+
+  /* UI Application Colors */
+  --color-background: #ffffff;
+  --color-surface: #fafafa;
+  --color-border: #e5e5e5;
+  --color-text-primary: #171717;
+  --color-text-secondary: #737373;
+  --color-text-inverse: #ffffff;
+}

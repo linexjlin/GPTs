@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sports Team Management - Design System Demo</title>
+
+  <!-- Design System CSS -->
+  <link rel="stylesheet" href="../css/tokens.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/components.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+
+  <style>
+    /* Demo-specific styles */
+    .demo-section {
+      margin: var(--space-3xl) 0;
+    }
+
+    .demo-section-title {
+      margin-bottom: var(--space-lg);
+      padding-bottom: var(--space-md);
+      border-bottom: var(--border-width-thick) solid var(--color-border);
+    }
+
+    .theme-selector {
+      display: flex;
+      align-items: center;
+      gap: var(--space-md);
+    }
+
+    .theme-select {
+      padding: var(--space-sm) var(--space-md);
+      border: var(--border-width) solid var(--color-border);
+      border-radius: var(--radius-md);
+      background-color: var(--color-background);
+      color: var(--color-text-primary);
+      font-size: var(--text-md);
+      cursor: pointer;
+    }
+
+    .theme-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-sm);
+    }
+
+    .theme-button {
+      padding: var(--space-sm) var(--space-lg);
+      border: var(--border-width-thick) solid var(--color-border);
+      border-radius: var(--radius-md);
+      background-color: var(--color-surface);
+      color: var(--color-text-primary);
+      font-size: var(--text-sm);
+      font-weight: var(--font-semibold);
+      cursor: pointer;
+      transition: all var(--transition-base);
+    }
+
+    .theme-button:hover {
+      border-color: var(--color-primary-500);
+      background-color: var(--color-primary-50);
+    }
+
+    .theme-button.active {
+      border-color: var(--color-primary-600);
+      background-color: var(--color-primary-600);
+      color: var(--color-text-inverse);
+    }
+
+    .color-palette {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      gap: var(--space-md);
+      margin-top: var(--space-lg);
+    }
+
+    .color-swatch {
+      text-align: center;
+    }
+
+    .color-box {
+      height: 60px;
+      border-radius: var(--radius-md);
+      border: var(--border-width) solid var(--color-border);
+      margin-bottom: var(--space-xs);
+    }
+
+    .color-label {
+      font-size: var(--text-xs);
+      color: var(--color-text-secondary);
+    }
+
+    .component-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--space-lg);
+      margin-top: var(--space-lg);
+    }
+
+    .hero-section {
+      background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800));
+      color: var(--color-text-inverse);
+      padding: var(--space-3xl) var(--space-lg);
+      border-radius: var(--radius-xl);
+      text-align: center;
+      margin-bottom: var(--space-3xl);
+    }
+
+    .hero-title {
+      font-size: var(--text-5xl);
+      margin-bottom: var(--space-md);
+      color: var(--color-text-inverse);
+    }
+
+    .hero-subtitle {
+      font-size: var(--text-xl);
+      opacity: 0.9;
+      margin-bottom: var(--space-xl);
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <a href="#" class="navbar-brand">⚽ TeamManager</a>
+    <ul class="navbar-menu">
+      <li><a href="#" class="navbar-link active">Dashboard</a></li>
+      <li><a href="#" class="navbar-link">Teams</a></li>
+      <li><a href="#" class="navbar-link">Players</a></li>
+      <li><a href="#" class="navbar-link">Schedule</a></li>
+    </ul>
+  </nav>
+
+  <div class="container">
+    <!-- Hero Section -->
+    <div class="hero-section">
+      <h1 class="hero-title">Sports Design System</h1>
+      <p class="hero-subtitle">A comprehensive design system for amateur sports team management</p>
+      <div id="theme-buttons-container"></div>
+    </div>
+
+    <!-- Theme Selector Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Theme Selector</h2>
+      <p>Choose a theme to see the design system in action. Your preference will be saved automatically.</p>
+      <div class="mt-lg" id="theme-selector-container"></div>
+    </section>
+
+    <!-- Color Palette Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Current Theme Colors</h2>
+      <div class="color-palette">
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-primary-500);"></div>
+          <div class="color-label">Primary</div>
+        </div>
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-secondary-500);"></div>
+          <div class="color-label">Secondary</div>
+        </div>
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-success);"></div>
+          <div class="color-label">Success</div>
+        </div>
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-warning);"></div>
+          <div class="color-label">Warning</div>
+        </div>
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-error);"></div>
+          <div class="color-label">Error</div>
+        </div>
+        <div class="color-swatch">
+          <div class="color-box" style="background-color: var(--color-info);"></div>
+          <div class="color-label">Info</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Buttons Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Buttons</h2>
+      <div class="flex gap-md flex-col">
+        <div class="flex gap-sm">
+          <button class="btn btn-primary">Primary Button</button>
+          <button class="btn btn-secondary">Secondary Button</button>
+          <button class="btn btn-outline">Outline Button</button>
+          <button class="btn btn-ghost">Ghost Button</button>
+        </div>
+        <div class="flex gap-sm">
+          <button class="btn btn-primary btn-sm">Small</button>
+          <button class="btn btn-primary">Default</button>
+          <button class="btn btn-primary btn-lg">Large</button>
+        </div>
+        <div class="flex gap-sm">
+          <button class="btn btn-primary" disabled>Disabled</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stats Cards Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Statistics Cards</h2>
+      <div class="grid grid-cols-4 gap-lg">
+        <div class="stat-card">
+          <div class="stat-label">Total Players</div>
+          <div class="stat-value">248</div>
+          <div class="stat-change">↑ 12% from last month</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Active Teams</div>
+          <div class="stat-value">16</div>
+          <div class="stat-change">↑ 2 new teams</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Matches This Week</div>
+          <div class="stat-value">8</div>
+          <div class="stat-change">→ Same as last week</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Win Rate</div>
+          <div class="stat-value">67%</div>
+          <div class="stat-change">↑ 5% improvement</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cards Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Cards</h2>
+      <div class="component-grid">
+        <div class="card">
+          <div class="card-header">
+            <h3 class="card-title">Team Performance</h3>
+            <p class="card-subtitle">Last 30 days</p>
+          </div>
+          <div class="card-body">
+            <p>Your team has shown excellent performance with 8 wins out of 10 matches.</p>
+          </div>
+          <div class="card-footer">
+            <button class="btn btn-outline btn-sm">View Details</button>
+            <button class="btn btn-primary btn-sm">Download Report</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h3 class="card-title">Upcoming Match</h3>
+            <p class="card-subtitle">Saturday, 2:00 PM</p>
+          </div>
+          <div class="card-body">
+            <p><strong>Eagles vs Thunder</strong></p>
+            <p>Stadium: Central Sports Arena</p>
+          </div>
+          <div class="card-footer">
+            <button class="btn btn-primary btn-sm">View Lineup</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Roster Cards Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Team Roster</h2>
+      <div class="grid grid-cols-2 gap-md">
+        <div class="roster-card">
+          <div class="roster-avatar">JD</div>
+          <div class="roster-info">
+            <div class="roster-name">John Doe</div>
+            <div class="roster-position">Forward</div>
+          </div>
+          <div class="roster-number">#10</div>
+        </div>
+
+        <div class="roster-card">
+          <div class="roster-avatar">JS</div>
+          <div class="roster-info">
+            <div class="roster-name">Jane Smith</div>
+            <div class="roster-position">Midfielder</div>
+          </div>
+          <div class="roster-number">#7</div>
+        </div>
+
+        <div class="roster-card">
+          <div class="roster-avatar">MJ</div>
+          <div class="roster-info">
+            <div class="roster-name">Mike Johnson</div>
+            <div class="roster-position">Goalkeeper</div>
+          </div>
+          <div class="roster-number">#1</div>
+        </div>
+
+        <div class="roster-card">
+          <div class="roster-avatar">SW</div>
+          <div class="roster-info">
+            <div class="roster-name">Sarah Williams</div>
+            <div class="roster-position">Defender</div>
+          </div>
+          <div class="roster-number">#4</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Badges Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Badges</h2>
+      <div class="flex gap-sm">
+        <span class="badge badge-primary">Active</span>
+        <span class="badge badge-secondary">Featured</span>
+        <span class="badge badge-success">Won</span>
+        <span class="badge badge-warning">Pending</span>
+        <span class="badge badge-error">Lost</span>
+        <span class="badge badge-neutral">Neutral</span>
+      </div>
+    </section>
+
+    <!-- Alerts Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Alerts</h2>
+      <div class="flex flex-col gap-md">
+        <div class="alert alert-success">
+          <div class="alert-title">Success!</div>
+          <div>Your team roster has been updated successfully.</div>
+        </div>
+        <div class="alert alert-warning">
+          <div class="alert-title">Warning</div>
+          <div>Your subscription will expire in 7 days.</div>
+        </div>
+        <div class="alert alert-error">
+          <div class="alert-title">Error</div>
+          <div>Failed to load match schedule. Please try again.</div>
+        </div>
+        <div class="alert alert-info">
+          <div class="alert-title">Info</div>
+          <div>New features have been added to the dashboard.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Forms Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Forms</h2>
+      <div class="card" style="max-width: 500px;">
+        <div class="card-header">
+          <h3 class="card-title">Add New Player</h3>
+        </div>
+        <div class="card-body">
+          <div class="form-group">
+            <label class="form-label" for="player-name">Player Name</label>
+            <input type="text" id="player-name" class="form-input" placeholder="Enter player name">
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="position">Position</label>
+            <select id="position" class="form-select">
+              <option>Select position</option>
+              <option>Forward</option>
+              <option>Midfielder</option>
+              <option>Defender</option>
+              <option>Goalkeeper</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="jersey-number">Jersey Number</label>
+            <input type="number" id="jersey-number" class="form-input" placeholder="Enter number">
+            <span class="form-help">Choose a number between 1 and 99</span>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="notes">Notes</label>
+            <textarea id="notes" class="form-textarea" placeholder="Additional notes..."></textarea>
+          </div>
+        </div>
+        <div class="card-footer">
+          <button class="btn btn-ghost">Cancel</button>
+          <button class="btn btn-primary">Add Player</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Table Section -->
+    <section class="demo-section">
+      <h2 class="demo-section-title">Tables</h2>
+      <div class="table-container">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Team</th>
+              <th>Played</th>
+              <th>Won</th>
+              <th>Lost</th>
+              <th>Points</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Eagles</td>
+              <td>10</td>
+              <td>8</td>
+              <td>2</td>
+              <td>24</td>
+            </tr>
+            <tr>
+              <td>Thunder</td>
+              <td>10</td>
+              <td>7</td>
+              <td>3</td>
+              <td>21</td>
+            </tr>
+            <tr>
+              <td>Lightning</td>
+              <td>10</td>
+              <td>6</td>
+              <td>4</td>
+              <td>18</td>
+            </tr>
+            <tr>
+              <td>Storm</td>
+              <td>10</td>
+              <td>5</td>
+              <td>5</td>
+              <td>15</td>
+            </tr>
+            <tr>
+              <td>Flames</td>
+              <td>10</td>
+              <td>3</td>
+              <td>7</td>
+              <td>9</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer style="margin-top: var(--space-3xl); padding: var(--space-xl) 0; border-top: var(--border-width) solid var(--color-border); text-align: center; color: var(--color-text-secondary);">
+      <p>Sports Design System Demo © 2024</p>
+    </footer>
+  </div>
+
+  <!-- Theme Switcher JS -->
+  <script src="../js/theme-switcher.js"></script>
+  <script>
+    // Initialize theme switcher (already auto-initialized)
+    // Add theme selector to the page
+    document.getElementById('theme-selector-container').appendChild(
+      window.themeSwitcher.createThemeSelector({ showLabel: true })
+    );
+
+    // Add theme buttons to hero section
+    document.getElementById('theme-buttons-container').appendChild(
+      window.themeSwitcher.createThemeButtons({
+        showDescription: true,
+        buttonClassName: 'theme-button'
+      })
+    );
+
+    // Listen to theme changes
+    window.themeSwitcher.onThemeChange((detail) => {
+      console.log('Theme changed to:', detail.theme);
+      console.log('Theme info:', detail.themeInfo);
+    });
+  </script>
+</body>
+</html>
